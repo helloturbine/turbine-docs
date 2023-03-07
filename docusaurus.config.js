@@ -88,7 +88,15 @@ const config = {
             items: [
               {
                 label: 'What is Turbine?',
-                to: '/docs/what-is-turbine',
+                to: '/',
+              },
+              {
+                label: 'Integrations',
+                to: '/integrations',
+              },
+              {
+                label: 'Records',
+                to: '/records',
               },
             ],
           },
