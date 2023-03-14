@@ -13,7 +13,7 @@ Our Shopify integration allows you to pull in orders, products, payments, and pa
 ![Navigate to settings GIF](../../static/img/navigate-to-settings.gif)
 2. Scroll to the bottom of the page and click the "Install Turbine App" link, which will take you to Shopify
 ![Scroll to install link GIF](../../static/img/scroll-to-install-link.gif)
-3. Scroll to the bottom of the page in Shopify and click the green "Install app" button
+3. Click the green "Install app" button
 
 If successful, you should be redirected to Turbine and see a message that says:
 > App installed, webhooks provisioned, and Turbine is ready to go!
