@@ -43,8 +43,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          routeBasePath: 'changelog',
-          path: 'changelog'
+          routeBasePath: 'updates',
+          path: 'updates'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -72,7 +72,7 @@ const config = {
             position: 'left',
             label: 'What is Turbine?',
           },
-          {to: 'changelog', label: 'Changelog', position: 'left'},
+          {to: 'updates', label: 'Updates', position: 'left'},
           {
             href: 'https://www.helloturbine.com/',
             label: 'Turbine',
@@ -117,8 +117,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Changelog',
-                to: '/changelog',
+                label: 'Updates',
+                to: '/updates',
               },
               {
                 label: 'Turbine',
