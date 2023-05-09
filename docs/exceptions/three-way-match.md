@@ -4,6 +4,7 @@ Three-Way Match is the process of matching three documents:
 1. Purchase Order
 2. Receipt
 3. Invoice
+
 All of these documents should agree across SKU, price, and quantity.
 
 If they don't, we'll raise an exception in Turbine:
