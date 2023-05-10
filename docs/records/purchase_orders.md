@@ -1,5 +1,5 @@
 # Purchase Orders
-Purchase orders, also referred to as POs, are the first part of the three-way match.
+Purchase orders, also referred to as POs, are the first part of the three-way match reconciliation process.
 
 We help you cut purchase orders and link created POs to receipts, invoices, and freight shipments. We also calculate the landed COGS of each purchase order, so you don't have to rely on outdated models. 
 
