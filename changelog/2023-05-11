@@ -1,0 +1,23 @@
+---
+slug: 2023-05-11
+title: Changelog 2023-05-11
+authors: [jessika]
+tags: [changelog]
+---
+# 2023-05-11
+
+## Purchase Orders
+
+* You can now see the status of partially fulfilled purchase orders, which appear in icons on the sidebar
+* The UI of the purchase order detail screen has been updated to display the requested ready date, expected ready date, and actual ready date on top of each PO 
+* You can create multiple purchase orders at once using the "submit more" toggle switch
+* A pop-up message appears to notify you when PO is created successfully
+
+## General
+* The shortcut Command + K pulls up a search bar, which can be used to move throughout the app
+* Vendors are now listed alphabetically
+
+## Bugs
+* Squashed a bug in the purchase order detail screen. The fixed link will now take you to the correct page. 
+
+
