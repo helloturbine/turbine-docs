@@ -5,4 +5,3 @@ To set up the integration, provision a user to the Turbine email address your ac
 
 Turbine will gather all historical information on invoices and vendors, and capture invoices going forward.
 
-Invoices created in Bill.com will not be synced to Turbine.
