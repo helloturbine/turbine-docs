@@ -7,4 +7,4 @@ To set up the integration, provision a user to the Turbine email address your ac
 
 Turbine will not make historical changes pre-dating the integration. If you have other needs, speak with your account manager directly.
 
-Invoices created in QuickBooks will not be synced to Turbine.
+Our Quickbooks integration is in Beta.
