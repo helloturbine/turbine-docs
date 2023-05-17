@@ -5,6 +5,6 @@ For example, when you cut a purchase order, our integration creates the journal 
 
 To set up the integration, provision a user to the Turbine email address your account manager shares with you. That’s it!
 
-Turbine will gather all historical information on invoices and vendors, and capture invoices going forward.
+Turbine will not make historical changes pre-dating the integration. If you have other needs, speak with your account manager directly.
 
 Invoices created in QuickBooks will not be synced to Turbine.
