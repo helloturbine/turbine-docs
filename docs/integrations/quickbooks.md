@@ -1,5 +1,7 @@
 # Quickbooks
-Our QuickBooks integration allows you to continue to use the platform to create invoices, and see the data in Turbine. 
+Our QuickBooks integration allows you to ensure your accounting reflects your inventory status.
+
+For example, when you cut a purchase order, our integration creates the journal entry that moves money to accounts payable.  
 
 To set up the integration, provision a user to the Turbine email address your account manager shares with you. That’s it!
 
