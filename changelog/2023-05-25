@@ -1,0 +1,14 @@
+---
+slug: 2023-05-25
+title: Changelog 2023-05-25
+authors: [jessika]
+tags: [changelog]
+---
+# 2023-05-11
+
+# General
+- You can now remove a user's access to a tenant. Contact support for assistance.
+- We now support BOM creation and editing.
+
+# Bugs
+- Squashed a bug that altered entered dates on purchase orders. Transmitted date, acknowledged date, and requested ready date will all save correctly now.
