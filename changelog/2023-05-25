@@ -7,8 +7,10 @@ tags: [changelog]
 # 2023-05-11
 
 # General
-- You can now remove a user's access to a tenant. Contact support for assistance.
-- We now support BOM creation and editing.
-
+- We now support the creation and editing of Bill of Materials (BOMs)! Components for BOMs can be made up of either components or existing Turbine SKUs.
+- Huge purchase orders can be annoying to deal with, but not anymore! With our new Purchase Order Line Item Bulk Upload, large POs can easily be added to the platform. Just activate the toggle on the Create Purchase Order screen.
+- We've added more consistent error handling across the platform. Hopefully you won't run into any (fingers crossed), but if they do pop up, it will be a smoother experience.
+- Viewing the relationship between your documents just got easier. We now display the association between POs and their related receipts and invoices in the sidebar. 
+ 
 # Bugs
 - Squashed a bug that altered entered dates on purchase orders based on time zones. Transmitted date, acknowledged date, and requested ready date will all save correctly now.
