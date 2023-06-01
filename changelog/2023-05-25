@@ -11,4 +11,4 @@ tags: [changelog]
 - We now support BOM creation and editing.
 
 # Bugs
-- Squashed a bug that altered entered dates on purchase orders. Transmitted date, acknowledged date, and requested ready date will all save correctly now.
+- Squashed a bug that altered entered dates on purchase orders based on time zones. Transmitted date, acknowledged date, and requested ready date will all save correctly now.
