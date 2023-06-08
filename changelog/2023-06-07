@@ -10,4 +10,4 @@ tags: [changelog]
 - Components are great, confusion is not. We've added icons to line items to differentiate between a product and a component when creating Purchase Orders.
 - Mistakes happen, but what's not fun is figuring out what exactly the problem is. We've updated our error flagging in the Purchase Orders screen to make it easier to spot when something is entered incorrectly.
 - When bulk uploading purchase order line items, you don't want to keep adding the same node over and over... and over. You can now specify which Node the PO is for, and we'll apply it to all line items.
-- Payment terms are now supported on purchase orders, just click into the box and type away!
+- Payment terms are now supported on Purchase Orders, just click into the box and type away!
