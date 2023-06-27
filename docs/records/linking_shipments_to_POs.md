@@ -8,4 +8,4 @@ Once tracking information is received from a carrier, you can link the shipment 
 
 3. Enter the details of the shipment, including the carrier, tracking number, allocation method, and cost. Then, click "Save." The landed cost of each item will automatically populate.
 
-Saved shipments will also appear on the Freight Shipments page. We will verify the entered information with the carrier's website to ensure everything is correct. Additionally, information such as the shipped date and expected delivery date will be populated in Turbine.
+Saved shipments will also appear on the Freight Shipments page. If it is a supported carrier, we will verify the entered information with the carrier's systems to ensure the price and tracking information is accurate.If so, information such as the shipped date and expected delivery date will be populated on the Freight Shipments page.
