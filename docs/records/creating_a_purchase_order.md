@@ -15,5 +15,6 @@ For large Purchase Orders, line items can be submitted in bulk by using the “B
 
 You can also cut multiple Purchase Orders at once by using the “Submit More” toggle switch towards the top of the screen, in the Purchase Order Details section. 
 
-<img width="1184" alt="Creating-a-PO-2" src="https://github.com/helloturbine/turbine-docs/assets/131547338/179dc04b-72f9-4b99-a4ed-81fe6bb322d4">
+<img width="1184" alt="Creating-a-PO-2" src="https://github.com/helloturbine/turbine-docs/assets/131547338/781d0ae9-445c-4a3f-baef-891167187e14">
+
 
