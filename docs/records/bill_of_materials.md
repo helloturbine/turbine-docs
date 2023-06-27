@@ -12,7 +12,7 @@ To create a BOM, follow these steps:
 
 3. A pop-up screen will appear, prompting you to enter the Turbine SKU associated with the BOM and the validity dates. The "Valid From" field is automatically set to the current day, but it can be changed if needed. If there are no plans for the BOM to expire, leave the "Valid To" field blank.
 
-4. Once the parent SKU and validity dates are submitted, you can look up the components, enter quantities, and add any relevant notes. If the SKU is a kitted item (composed of other products), you can also look up the Turbine SKUs of the constituent products.
+4. Once the parent SKU and validity dates are submitted, you can look up the components, enter quantities, and add any relevant notes. If the SKU is a kitted item (composed of one or more other SKUs), you can also look up the Turbine SKUs of the constituent products.
 
 5. As you add components and/or Turbine SKUs, they will automatically save and appear at the bottom of the screen. 
 
