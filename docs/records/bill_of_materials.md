@@ -2,7 +2,7 @@
 
 A Bill of Materials, or BOM, is like a "recipe" for a product. It provides details about all the components that make up the product and how they are assembled. BOMs are essential for standardizing the production process and transforming raw materials into finished products.
 
-In Turbine, BOMs are used to convert components in your inventory into finished SKUs. As production runs occur, we decrease the quantity of components in your inventory and increase the number of finished goods. Turbine also supports versioning for BOMs, allowing you to schedule new BOMs or set expiration dates for special product releases.
+In Turbine, BOMs are used to convert components in your inventory into finished SKUs. As work orders are cut, we decrease the quantity of components in your inventory and increase the number of finished goods. Turbine also supports versioning for BOMs, allowing you to schedule new BOMs or set expiration dates for special product releases.
 
 To create a BOM, follow these steps:
 
