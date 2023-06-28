@@ -1,4 +1,4 @@
-## Bill of Materials (BOMs)
+# Bill of Materials (BOMs)
 
 A Bill of Materials, or BOM, is like a "recipe" for a product. It provides details about all the components that make up the product and how they are assembled. BOMs are essential for standardizing the production process and transforming raw materials into finished products.
 
