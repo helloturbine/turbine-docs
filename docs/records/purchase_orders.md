@@ -33,3 +33,11 @@ To start, click the "Edit PO" button in the top right corner of your screen. Fro
 ![Renaming-a-PO-final](https://github.com/helloturbine/turbine-docs/assets/131547338/25ac6b97-2a52-4a79-8462-e662ffec9fa5)
 
 If you need to edit a line item on a PO, please reach out to your account manager to ensure you have the appropriate permissions and that this is enabled for your organization.
+
+## Active vs Inactive Purchase Orders
+
+Purchase Orders in Turbine are classified as either “active” or “inactive”. 
+
+A PO is considered active if one or more line items have not been received. Inactive POs have been fully received, as indicated by a receipt.
+
+Purchase orders can be filtered by status on the index page. 
