@@ -21,14 +21,11 @@ Saved shipments will also appear on the Freight Shipments page. If it is a suppo
 
 Freight shipments that have been linked to a Purchase Order show up on the Freight Shipments page. Each entry shows the carrier, tracking number, shipped date, expected delivery date, and actual delivery date. 
 
-![Freight shipments (1)](https://github.com/helloturbine/turbine-docs/assets/131547338/0f37b551-73f9-48fc-bd37-020d14bfb455)
+![Freight shipments](../../static/img/freight_shipments.png)
 
 
 For supported carriers, Turbine verifies the tracking number as it is entered on the Purchase Order screen. Incorrect pricing or tracking numbers will not be saved. Instead, you will get a warning to check the entered info and try again.
 
 For other carriers, the tracking number is turned into an external link that will bring you to the carrier's website, if applicable. If the tracking number is incorrect, the link will not work. To fix this, simply click the red trashcan icon to delete the freight shipment from the purchase order. Then, re-enter the information.
 
-<img width="1512" alt="trashcan pointer" src="https://github.com/helloturbine/turbine-docs/assets/131547338/fe70abef-2821-4e58-bd54-eef10c93197b">
-
-
-
+![Edit a freight shipment](../../static/img/delete_freight_shipments.png)
