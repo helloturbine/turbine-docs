@@ -15,14 +15,14 @@ Creating a purchase order in Turbine is streamlined and simple.
 4. To add line items to the Purchase Order, enter the price, quantity, Turbine SKU, and Node for each one. The SKU field is equipped with search, so you only have to remember the name of the item or your internal SKU code, and we’ll look up the Turbine SKU for you.
 Once everything is filled out, hit the “Submit PO” button. That’s it!
 
-![Creating-a-PO-1](https://github.com/helloturbine/turbine-docs/assets/131547338/688af51d-667d-432e-b748-e510d9a9acaf)
+![Creating a PO GIF](../../static/img/creating-a-po-1.gif)
 
 
 For large Purchase Orders, line items can be submitted in bulk by using the “Bulk Mode” toggle switch at the bottom of the screen and following the listed instructions.
 
 You can also cut multiple Purchase Orders at once by using the “Submit More” toggle switch towards the top of the screen, in the Purchase Order Details section. 
 
-![Creating-a-PO-2-final](https://github.com/helloturbine/turbine-docs/assets/131547338/1ab4ac47-31a7-4e22-9dc1-de6c6985c15f)
+![Creating a PO Image](../../static/img/creating-a-po-2-final.jpg)
 
 ## Editing a Purchase Order
 
@@ -30,7 +30,7 @@ Important information such as the acknowledgment date and payment terms may not 
 
 To start, click the "Edit PO" button in the top right corner of your screen. From there, you can add or modify important dates, Incoterms, and payment terms. Once you have made the necessary changes, remember to click "Save" below the Payment Terms field.
 
-![Renaming-a-PO-final](https://github.com/helloturbine/turbine-docs/assets/131547338/25ac6b97-2a52-4a79-8462-e662ffec9fa5)
+![Editing a PO GIF](../../static/img/editing-a-po-final.gif)
 
 If you need to edit a line item on a PO, please reach out to your account manager to ensure you have the appropriate permissions and that this is enabled for your organization.
 
