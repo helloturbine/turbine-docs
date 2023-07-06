@@ -1,0 +1,9 @@
+{
+    "label": "Records",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "The core of the workflows in Turbine"
+    },
+    "collapsed": false
+  }
