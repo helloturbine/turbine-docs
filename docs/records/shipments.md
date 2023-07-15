@@ -29,3 +29,6 @@ For supported carriers, Turbine verifies the tracking number as it is entered on
 For other carriers, the tracking number is turned into an external link that will bring you to the carrier's website, if applicable. If the tracking number is incorrect, the link will not work. To fix this, simply click the red trashcan icon to delete the freight shipment from the purchase order. Then, re-enter the information.
 
 ![Edit a freight shipment](../../static/img/delete_freight_shipments.png)
+
+## Expected Arrival Date vs. Actual Arrival Date
+Turbine distinguishes between the estimated arrival date of freight shipments and their actual arrival date, providing valuable insight into your lead times. These lead times are also monitored by Turbine. The data gathered from this distinction serves several use cases, including optimizing inventory processes, evaluating the efficiency of your logistics process, and quickly identifying delays or supply chain disruptions. In cases where a delay is excessive, Turbine raises an exception, enabling you to adjust your plans accordingly. 
