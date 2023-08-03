@@ -36,7 +36,9 @@ Turbine distinguishes between the estimated arrival date of freight shipments an
 ## Shipment Carrier Integrations
 Turbine currently offers integrations with C.H. Robinson and Flexport. 
 
-When adding freight shipments to purchase orders, tracking numbers belonging to those carriers will take you to their site. We also extract and surface shipment information on the “Freight Shipments” page.
+Freight shipments from those C. H. Robinson will auto-populate on your Shipments dashboard. 
 
-Integrations with other major carriers such as UPS and DHL are coming soon. Please ask your account manager for more details.
+When adding inbound shipments to purchase orders, tracking numbers 
+belonging to USPS, UPS, DHL, and Fedex will go through data validation and be surfaced on the Shipments Page.
+
 
