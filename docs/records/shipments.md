@@ -23,7 +23,6 @@ Freight shipments that have been linked to a Purchase Order show up on the Freig
 
 ![Freight shipments](../../static/img/freight_shipments.png)
 
-
 For supported carriers, Turbine verifies the tracking number as it is entered on the Purchase Order screen. Incorrect pricing or tracking numbers will not be saved. Instead, you will get a warning to check the entered info and try again.
 
 For other carriers, the tracking number is turned into an external link that will bring you to the carrier's website, if applicable. If the tracking number is incorrect, the link will not work. To fix this, simply click the red trashcan icon to delete the freight shipment from the purchase order. Then, re-enter the information.
