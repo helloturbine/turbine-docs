@@ -23,9 +23,21 @@ Freight shipments that have been linked to a Purchase Order show up on the Freig
 
 ![Freight shipments](../../static/img/freight_shipments.png)
 
-
 For supported carriers, Turbine verifies the tracking number as it is entered on the Purchase Order screen. Incorrect pricing or tracking numbers will not be saved. Instead, you will get a warning to check the entered info and try again.
 
 For other carriers, the tracking number is turned into an external link that will bring you to the carrier's website, if applicable. If the tracking number is incorrect, the link will not work. To fix this, simply click the red trashcan icon to delete the freight shipment from the purchase order. Then, re-enter the information.
 
 ![Edit a freight shipment](../../static/img/delete_freight_shipments.png)
+
+## Expected Arrival Date vs. Actual Arrival Date
+Turbine distinguishes between the estimated arrival date of freight shipments and their actual arrival date, providing valuable insight into your on-time delivery percentage. The data gathered from this distinction serves several use cases, including optimizing inventory processes, evaluating the efficiency of your logistics process, and quickly identifying delays or supply chain disruptions. In cases where a delay is excessive, Turbine raises an exception, enabling you to adjust your plans accordingly. 
+
+## Shipment Carrier Integrations
+Turbine currently offers integrations with C.H. Robinson, Flexport, and Easypost. 
+
+Freight shipments from those C. H. Robinson will auto-populate on your Shipments dashboard. 
+
+When adding inbound shipments to purchase orders, tracking numbers 
+belonging to USPS, UPS, DHL, and Fedex will go through data validation and be surfaced on the Shipments Page.
+
+
