@@ -32,3 +32,13 @@ For other carriers, the tracking number is turned into an external link that wil
 
 ## Expected Arrival Date vs. Actual Arrival Date
 Turbine distinguishes between the estimated arrival date of freight shipments and their actual arrival date, providing valuable insight into your on-time delivery percentage. The data gathered from this distinction serves several use cases, including optimizing inventory processes, evaluating the efficiency of your logistics process, and quickly identifying delays or supply chain disruptions. In cases where a delay is excessive, Turbine raises an exception, enabling you to adjust your plans accordingly. 
+
+## Shipment Carrier Integrations
+Turbine currently offers integrations with C.H. Robinson, Flexport, and Easypost. 
+
+Freight shipments from those C. H. Robinson will auto-populate on your Shipments dashboard. 
+
+When adding inbound shipments to purchase orders, tracking numbers 
+belonging to USPS, UPS, DHL, and Fedex will go through data validation and be surfaced on the Shipments Page.
+
+
