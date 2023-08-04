@@ -43,7 +43,7 @@ A PO is considered active if one or more line items have not been received. Inac
 Purchase orders can be filtered by status on the index page. 
 
 ## Purchase Orders and the Three Way Match
-The Purchase Order is the central document in completing a three-way match. 
+The Purchase Order is the central document in completing a [three-way match](https://www.helloturbine.com/blog/whats-three-way-match). 
 
 At Turbine, we start from the Purchase Order and tie line items together across all three documents, so you can track an item from the first step in procurement to the last step in fulfillment. 
 
