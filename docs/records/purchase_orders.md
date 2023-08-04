@@ -41,3 +41,15 @@ Purchase Orders in Turbine are classified as either “active” or “inactive�
 A PO is considered active if one or more line items have not been received. Inactive POs have been fully received, as indicated by a receipt.
 
 Purchase orders can be filtered by status on the index page. 
+
+## Purchase Orders and the Three Way Match
+The Purchase Order is the central document in completing a [three-way match](https://www.helloturbine.com/blog/whats-three-way-match). 
+
+At Turbine, we start from the Purchase Order and tie line items together across all three documents, so you can track an item from the first step in procurement to the last step in fulfillment. 
+
+This data allows you to complete three-way match at a glance. Each line item on a PO contains an indicator that shows whether a line item has been received and if it has been paid for. 
+
+[insert image here]
+
+Any issues are surfaced on the Exceptions page.
+
