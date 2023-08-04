@@ -49,7 +49,7 @@ At Turbine, we start from the Purchase Order and tie line items together across 
 
 This data allows you to complete three-way match at a glance. Each line item on a PO contains an indicator that shows whether a line item has been received and if it has been paid for. 
 
-[insert image here]
+![3WM](../../static/img/po-3wm.png)
 
 Any issues are surfaced on the Exceptions page.
 
