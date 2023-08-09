@@ -1,5 +1,4 @@
 ## Work Orders
-Work orders in Turbine can be thought of as a special type of Purchase Order, with the main difference being that the items are not ordered from a vendor, but made directly by a customer.
 
 For customers that perform their own manufacturing, work orders can be a useful tool to track the creation of new inventory and the consumption of components. Once a work order is run, the changes to inventory will be reflected on the Stock page. 
 
