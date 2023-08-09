@@ -2,7 +2,7 @@
 
 Stock keeping units, informally known as SKUs, are codes used to keep track of individual inventory units and components. There are four main types of SKUs that Turbine uses to keep track of inventory and cut purchase orders:
 
-**Vendor SKU**: The code that a vendor uses to identify a particular item.
+**Vendor SKU**: The identifier that your supplier (or vendor) uses to identify a particular item.
 
 **Internal/Remote SKU**: The code that a customer uses internally to identify an item.
 
