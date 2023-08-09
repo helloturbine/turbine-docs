@@ -4,7 +4,7 @@ Stock keeping units, informally known as SKUs, are codes used to keep track of i
 
 **Vendor SKU**: The identifier that your supplier (or vendor) uses to identify a particular item.
 
-**Internal/Remote SKU**: The code that you use internally to identify an item.
+**Internal/Remote SKU**: The identifier that you use internally to identify an item.
 
 **Channel SKU**: The identifier that a particular sales channel uses to identify an item (e.g. Shopify’s Variant ID)
 
