@@ -4,10 +4,10 @@ Stock keeping units, informally known as SKUs, are codes used to keep track of i
 
 **Vendor SKU**: The identifier that your supplier (or vendor) uses to identify a particular item.
 
-**Internal/Remote SKU**: The code that a customer uses internally to identify an item.
+**Internal/Remote SKU**: The code that you use internally to identify an item.
 
-**Channel SKU**: The code that a particular sales channel uses to identify an item (e.g. Shopify’s Variant ID)
+**Channel SKU**: The identifier that a particular sales channel uses to identify an item (e.g. Shopify’s Variant ID)
 
-**Turbine SKU**: The code that Turbine uses to tie all three SKUs together, allowing Vendor SKUs to map to Internal SKUs, and across sales channels. 
+**Turbine SKU**: The ID that Turbine uses to tie all the different channels and vendor identifiers together. 
 
 Turbine SKUs are created at a variant level, meaning that each Turbine SKU is mapped to a unique product. For example, an apparel company might sell a white T-shirt in sizes XS-XL. In Turbine, each of those products would have a unique Turbine SKU.
