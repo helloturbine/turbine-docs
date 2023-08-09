@@ -1,9 +1,13 @@
 # SKUs
 
-![SKUs](../../static/img/skus.png)
+Stock keeping units, informally known as SKUs, are codes used to keep track of individual inventory units and components. There are four main types of SKUs that Turbine uses to keep track of inventory and cut purchase orders:
 
-*TurbineSKUs* are items that Turbine knows about. TurbineSKUs are at a "Variant" level, meaning that you will have one TurbineSKU for each unique style/shade combination of a product. For an apparel company, a blue XL sweatshirt, a red XL sweatshirt, and a red L sweatshirt would each be a unique TurbineSKU.
+**Vendor SKU**: The identifier that your supplier (or vendor) uses to identify a particular item.
 
-A single TurbineSKU can be linked to multiple sales channels via a _ChannelSKU_. This is the SKU as it appears in the sales channel's system (e.g., a Shopify _Variant ID_). This allows Turbine to track sales and inventory across all of your partners in one system
+**Internal/Remote SKU**: The identifier that you use internally to identify an item.
 
-A single TurbineSKU can also be linked to multiple vendors via a _VendorSKU_. This the SKU as it appears in the vendor's system. This allows Turbine to track purchase orders and incoming inventory for a single TurbineSKU across multiple vendors.
+**Channel SKU**: The identifier that a particular sales channel uses to identify an item (e.g. Shopify’s Variant ID)
+
+**Turbine SKU**: The ID that Turbine uses to tie all the different channels and vendor identifiers together. 
+
+Turbine SKUs are created at a variant level, meaning that each Turbine SKU is mapped to a unique product. For example, an apparel company might sell a white T-shirt in sizes XS-XL. In Turbine, each of those products would have a unique Turbine SKU.
