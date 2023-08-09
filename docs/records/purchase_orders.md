@@ -22,6 +22,8 @@ For large Purchase Orders, line items can be submitted in bulk by using the “B
 
 You can also cut multiple Purchase Orders at once by using the “Submit More” toggle switch towards the top of the screen, in the Purchase Order Details section. 
 
+You can find the format for bulk upload of PO line items [here]([url](https://docs.google.com/spreadsheets/d/1ZVSR8Ha0_WqmAbTv-eB9t4e1aw2ZRQJDi96ik6jT68A/edit#gid=1959592565))
+
 ![Creating a PO Image](../../static/img/creating-a-po-2-final.jpg)
 
 ## Editing a Purchase Order
