@@ -11,10 +11,10 @@ Payment statuses include:
 **Refunded**: A previously paid amount has been returned to the customer.
 **Failed**: The payment attempt was unsuccessful. This could be due to reasons such as insufficient funds or technical issues.
 
-[order index page screenshot]
+![Order Index Page](../../static/img/orders.png)
 
 Turbine integrates with several WMS systems including Veracore, Amazon FBA, Shipbob, and more. This allows you to see the fulfillment status of each order, its contents, and its payment status within the Order Details page.
 
-[order details page screenshot]
+![Order Details Page](../../static/img/order_details.png)
 
 
