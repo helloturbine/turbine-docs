@@ -1,4 +1,4 @@
-## Work Orders
+# Work Orders
 
 For brands that perform their own manufacturing or use a co-man, work orders can be a useful tool to track the creation of new inventory and the consumption of components. Once a work order is run, the changes to inventory will be reflected on the Stock page. 
 
