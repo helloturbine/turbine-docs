@@ -1,5 +1,13 @@
 # Outbound Orders
 
-![Outbound Orders GIF](../../static/img/outbound-orders.gif)
+Outbound orders are shipments that are fulfilled by you, either to an individual or to a wholesale buyer. 
 
-Outbound Orders are orders that are being sent out by your company. These can be customer orders destined for individuals or large wholesale orders destined for a retailer.
+On the Outbound Orders page, you can view the date and time that each order was placed, the sales channel of the order, the payment status, and the order total. You can also filter orders by the date they were placed. 
+
+[order index page screenshot]
+
+Turbine integrates with several WMS systems including Veracore, Amazon FBA, Shipbob, and more. This allows you to see the fulfillment status of each order, its contents, and its payment status within the Order Details page.
+
+[order details page screenshot]
+
+
