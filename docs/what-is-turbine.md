@@ -6,7 +6,7 @@ slug: /
 
 # What is Turbine?
 
-Turbine is financial technology for companies with physical inventory. 
+Turbine is a lightweight for companies with physical inventory. 
 
 We’re seeking to fundamentally change how information is shared and used across organizations. 
 
