@@ -6,9 +6,13 @@ slug: /
 
 # What is Turbine?
 
-Turbine is financial technology for companies with physical inventory.
+Turbine is a lightweight for companies with physical inventory. 
 
-We help ecommerce companies run a more efficient business through:
+We’re seeking to fundamentally change how information is shared and used across organizations. 
+
+Instead of having all of your procurement and fulfillment data scattered across several apps, slowing you down and creating confusion, Turbine is becoming the single source of truth for operations and accounting teams.   
+
+We help consumer brands run a more efficient business through:
 - Automated three-way-match reconciliation
 - Multi-channel order-to-cash workflows
 - Inventory and financial management
