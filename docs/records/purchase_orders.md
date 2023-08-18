@@ -14,7 +14,7 @@ Creating a purchase order in Turbine is streamlined and simple.
 3. Fill out the relevant information, including the PO ID number, Vendor, any Incoterms, and the Requested Ready date. The Transmitted Date is automatically set to the day you create the Purchase Order, although this can be changed. If you do not have a piece of information on hand, you can always edit the PO later.
 4. To add line items to the Purchase Order, enter the price, quantity, Turbine SKU, and Node for each one. The SKU field is equipped with search, so you only have to remember the name of the item or your internal SKU code, and we’ll look up the Turbine SKU for you.
 5. Hit the “Submit PO” button.
-6. Once you are satisfied with your PO, in the upper right, his the send icon to schedule your PO's send. By default, it will send in 10 minutes, though it can be scheduled for future iterations.
+6. Once you are satisfied with your PO, in the upper right, hit the send icon to schedule your PO's send. By default, it will send in 10 minutes, though it can be scheduled up to 30 days in the future.
 
 ![Creating a PO GIF](../../static/img/creating-a-po-1.gif)
 
