@@ -12,10 +12,12 @@ The Command Palette also supports search across specific items using a "bang" sh
 
 The list of bank shortcuts that are supported are:
 
-| Bang shortcut | Searches        |
-|---------------|-----------------|
-| !c            | Components      |
-| !s            | SKUs            |
-| !po           | Purchase Orders |
-| !v            | Vendors         |
+| Bang shortcut | Searches          |
+|---------------|-------------------|
+| !c            | Components        |
+| !s            | SKUs              |
+| !po           | Purchase Orders   |
+| !v            | Vendors           |
+| !r            | Receipts          |
+| !fs           | Freight Shipments |
 
