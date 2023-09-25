@@ -56,3 +56,11 @@ This data allows you to complete three-way match at a glance. Each line item on 
 
 Any issues are surfaced on the Exceptions page.
 
+## Purchase Order FAQs
+
+### How can I add size breaks in the PO?
+
+For companies that have a parent SKU with many sizes to consider when creating purchase orders, each size must be added as an individual line item. This is important to Turbine's accurate costing analysis. 
+
+You can add individual sizes to the line items via our UI. If order many line items, we recommend leveraging our [Bulk Upload](/records/purchase_orders#creating-a-purchase-order) method for cutting a PO. 
+
