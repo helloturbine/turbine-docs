@@ -35,7 +35,15 @@ To start, click the "Edit PO" button in the top right corner of your screen. Fro
 
 ![Editing a PO GIF](../../static/img/editing-a-po-final.gif)
 
-If you need to edit a line item on a PO, please reach out to your account manager to ensure you have the appropriate permissions and that this is enabled for your organization.
+## Editing Line Items on a Purchase Order
+
+Once a PO has been fully received it is no longer editable, so a PO can only be edited until items have been completely received.
+
+To the far right on a PO, you will see an Edit (pencil icon) or Delete (trash icon) button. 
+
+When editing a line item, you'll see a pop out modal where you can make any changes. 
+
+Changes will trigger a follow up email being added to send queue within 10 minutes.
 
 ## Active vs Inactive Purchase Orders
 
