@@ -30,3 +30,11 @@ Alternatively, if your Purchase Orders typically arrive within one shipment, you
 ## Linking Receipts to Nodes
 For companies with multiple [nodes](/records/nodes), ensuring that inventory arrival is accurately marked at the appropriate location is essential.
 When creating or uploading a receipt, you have the option to select the node where the shipment will be arriving. For warehouse users, node locations are automatically selected.
+
+## Updates to Receipts
+
+If a change to a receipt is made, we will only update inventory batch quantities received and remaining only if:
+* we're within the 7 day edit window 
+* if changing remaining quantity doesn't cause us to stock out or go negative (e.g. we already have orders attributed to this batch)
+
+Changes made outside of the 7 day edit window do not propogate to inventory.
