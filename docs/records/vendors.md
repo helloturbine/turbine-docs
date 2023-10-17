@@ -14,7 +14,7 @@ Add additional details, including contact, email addresses, and an address to th
 
 ## Add a SKU to the Vendor 
 
-Many times, your supplier uses a specific term or code to refer to an item. We call that the [Vendor SKU](/../skus).
+Many times, your supplier uses a specific term or code to refer to an item. We call that the [Vendor SKU](https://docs.helloturbine.com/records/skus).
 
 To add a SKU to a Vendor, you'll need:
 * the Internal SKU
