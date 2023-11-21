@@ -40,4 +40,30 @@ Freight shipments from those C. H. Robinson will auto-populate on your Shipments
 When adding inbound shipments to purchase orders, tracking numbers 
 belonging to USPS, UPS, DHL, and Fedex will go through data validation and be surfaced on the Shipments Page.
 
+## Allocation Model
 
+Freight shipments can be allocated to a PO by number of items or by the value of those items. 
+For example, say you have PO #1234 with the following line items:
+100 of SKU 123 at $10 each
+50 of SKU 456 at $20 each
+
+If you allocate your $1000 of shipping cost by number of items:
+
+| SKU     | Quantity | Price per Unit | Shipping per Unit | Landed costs |
+|---------|----------|----------------|----------|--------------|
+| SKU 123 | 100      | 10             | 6.66     |  16.67       |
+| SKU 456 | 50       | 20             | 6.66     |  26.67       |
+|         |          |                |          |              |
+
+Total cost 
+
+If you allocate your $1000 of shipping cost by value of items:
+
+| SKU     | Quantity | Price per Unit | Shipping per Unit | Landed costs |
+|---------|----------|----------------|----------|--------------|
+| SKU 123 | 100      | 10             | 5        |  15          |
+| SKU 456 | 50       | 20             | 10       |  30          |
+|         |          |                |          |              |
+
+
+One allocation model is not superior to the other. The best allocation model for your business is a business decision. 
