@@ -2,6 +2,8 @@
 
 For brands that perform their own manufacturing or use a co-man, work orders can be a useful tool to track the creation of new inventory and the consumption of components. Once a work order is run, the changes to inventory will be reflected on the Stock page. 
 
+## Creating a Work Order
+
 To create a work order, follow these steps:
 1. Start at the “Procure to Pay” tab in the navigation bar, then click “Work Orders.”
 2. Next, click the “New Work Order” button on the top right-hand side of your screen.
