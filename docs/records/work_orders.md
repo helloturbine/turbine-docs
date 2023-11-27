@@ -14,3 +14,9 @@ To create a work order, follow these steps:
 Note: Work order line items must have an associated BOM before beginning this process. 
 
 ![Work Orders](../../static/img/work_orders.gif)
+
+## How to download a PDF for a Work Order
+
+Once a work order has been cut, you can select “Download PDF” in the upper right.
+It has all the details of the work order, including the items that are in the work order and the relevant BOMs. If there are multiple items, the BOMs for each item will be shown. 
+
