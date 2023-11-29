@@ -28,7 +28,7 @@ On our SKU details screen you can see a number of key pieces of information abou
 ## Creating a SKU in Turbine
 
 1. Go to inventory and select “SKUs”.
-2. Next, select "New Sku" button at the top right-hand side of your screen.
+2. Next, select "New SKU" button at the top right-hand side of your screen.
 3. Fill out the relevant information, including SKU title, SKU, and final price of the SKU.
 4. Hit the "Create SKU" button.
 5. If available, you can add other info such as barcode value.
