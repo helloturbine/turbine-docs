@@ -25,6 +25,14 @@ On our SKU details screen you can see a number of key pieces of information abou
 * Landed costs over time
 * Related POs (both opened and closed)
 
+## Creating a SKU in Turbine
+
+1. Go to inventory and select “SKUs”.
+2. Next, select "New Sku" button at the top right-hand side of your screen.
+3. Fill out the relevant information, including SKU title, SKU, and final price of the SKU.
+4. Hit the "Create SKU" button.
+5. If available, you can add other info such as barcode value.
+
 ## Editing a Remote SKU
 
 A remote SKU can only be edited on the SKU details page. After navigating to the SKU details page, select "Edit". A modal will pop up with a text box that can be edited. You change will permeate through the app upon saving. 
