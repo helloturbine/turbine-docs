@@ -4,6 +4,8 @@ A Bill of Materials, or BOM, is like a "recipe" for a product. It provides detai
 
 Turbine supports versioning for BOMs, allowing you to schedule new BOMs or set expiration dates for special product releases.
 
+## Create a BOM
+
 To create a BOM, follow these steps:
 
 1. Navigate to the "Inventory" tab in the navigation bar and click on "BOM."
@@ -20,3 +22,6 @@ BOMs can also be cloned to facilitate the creation of similar products. To clone
 
 To delete a BOM, click on it from the BOM list page, then click the "Delete BOM" button located at the top right-hand side of the screen.
 
+## Editing a BOM
+
+Go to the BOM details screen. Any changes you make will be auto-saved.
