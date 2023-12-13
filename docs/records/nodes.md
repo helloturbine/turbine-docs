@@ -22,4 +22,12 @@ There are five types of nodes that Turbine uses to track and store inventory:
 
 You can have multiple nodes or a singular node, depending on what most accurately reflects your existing fulfillment procedures.
 
+## Creating a Node in Turbine
+
+1.	Go to inventory and select “Nodes”.
+2.	Next, select the "New Node" button at the top right-hand side of your screen.
+3.	Fill out the relevant information, including Name, Company, Code, Type and Address of the Node.
+4.	If available, you can add other info such as Contact Name, Contact Phone Number, and Contact Email Address.
+5.	Hit the "Create Node" button.
+
 
