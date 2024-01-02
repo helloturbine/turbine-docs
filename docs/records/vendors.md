@@ -25,3 +25,9 @@ To add a SKU to a Vendor, you'll need:
 ## Edit a Vendor
 
 To edit a vendor, go to the Vendor details screen and make any changes. Make sure to SAVE changes. 
+
+## How to archive a Vendor in Turbine
+
+1. Go to the [Vendors](https://app.helloturbine.com/app/vendors) Page.
+2. Next, select the Vendor you want to archive.
+3. Hit the “Archive” button at the top right-hand side of your screen.
