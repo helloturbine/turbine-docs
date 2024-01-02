@@ -7,7 +7,7 @@ For brands that perform their own manufacturing or use a co-man, work orders can
 To create a work order, follow these steps:
 1. Start at the “Procure to Pay” tab in the navigation bar, then click “Work Orders.”
 2. Next, click the “New Work Order” button on the top right-hand side of your screen.
-3. Fill out the relevant information, including the Requested Ready date, the Transmitted On date, and the Node where the manufacturing will take place.
+3. Fill out the relevant information, including the Vendor, the Requested Ready date, the Transmitted On date, and the Node where the manufacturing will take place. Please note that only Vendors who are manufacturers will be available for selection.
 4. To add line items to the Work Order, enter the quantity and Turbine SKU for each one. The SKU field is equipped with search, so you only have to remember the name of the item or your internal SKU code, and we’ll look up the Turbine SKU for you.
 5. Once everything is filled out, hit the “Run Work Order” button. The proposed changes to inventory are **permanent**, so ensure that all details are correct before confirming.
 
