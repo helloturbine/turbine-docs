@@ -28,6 +28,6 @@ To edit a vendor, go to the Vendor details screen and make any changes. Make sur
 
 ## How to archive a Vendor in Turbine
 
-1. Go to procure to pay and select “Vendors”.
+1. Go to the [Vendors](https://app.helloturbine.com/app/vendors) Page.
 2. Next, select the Vendor you want to archive.
 3. Hit the “Archive” button at the top right-hand side of your screen.
