@@ -31,5 +31,5 @@ Hit "Create Component" to save changes.
 
 1. Go to the [Components] (https://app.helloturbine.com/app/components) Page.
 2. Next, select the Component you want to archive.
-3. Alternatively, you can bang search by typing CMD+K or CTRL+K and !c and type the Component you want to archive.
+3. Alternatively, you can bang search (https://docs.helloturbine.com/command-palette/) by typing CMD+K or CTRL+K and !c and type the Component you want to archive.
 4. Hit the “Archive” button at the top right-hand side of your screen.
