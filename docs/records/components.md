@@ -25,4 +25,11 @@ From the [Components Page](https://app.helloturbine.com/app/components), in the 
 
 In the "Create Component" modal, add the Name, Remote SKU, Cost, and any additional fields.
 
- Hit "Create Component" to save changes. 
+Hit "Create Component" to save changes. 
+
+## How to archive a Component in Turbine
+
+1. Go to the [Components] (https://app.helloturbine.com/app/components) Page.
+2. Next, select the Component you want to archive.
+3. Alternatively, you can bang search (https://docs.helloturbine.com/command-palette/) by typing CMD+K or CTRL+K and !c and type the Component you want to archive.
+4. Hit the “Archive” button at the top right-hand side of your screen.
