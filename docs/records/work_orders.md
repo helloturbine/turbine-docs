@@ -20,3 +20,8 @@ Note: Work order line items must have an associated BOM before beginning this pr
 Once a work order has been cut, you can select “Download PDF” in the upper right.
 It has all the details of the work order, including the items that are in the work order and the relevant BOMs. If there are multiple items, the BOMs for each item will be shown. 
 
+## How to send a Work Order
+
+Once a work order has been cut, select the mail icon in the top right-side of your screen. 
+Fill out the relevant information, including when you want to email the work order, at what time, and the email of the recepient (if the email is already not configured at the Vendor). Please note that you will automatically be included in the CC line. 
+Hit the "Schedule Email" button. 
