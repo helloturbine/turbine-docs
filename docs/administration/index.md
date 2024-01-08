@@ -22,4 +22,5 @@ You can also get support via the shared slack channel that you are invited to as
 
 1. The tenant currently active will be mentioned on the top right side of your screen (e.g., "Product Turbine"). 
 
-2. Hit the button, and from the dropdown menu that appears, select the tenant you wish to switch to.
+2. Select the round profile button. 
+3. From the dropdown menu that appears, select the tenant you wish to switch to.
