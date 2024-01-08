@@ -13,6 +13,13 @@ After having your password reset, you will receive an email with a reset link. Y
 ### Utilizing in-app support
 
 We have an in-app chat that allows you to easily reach out to us for assistance, share valuable product feedback, or quickly access important links, all within the chat window. We're here to provide dedicated customer support and enhance your overall experience. 
+
 ## Other ways to engage Support
 
 You can also get support via the shared slack channel that you are invited to as part of onboarding OR by emailing support@helloturbine.com.
+
+## How to switch tenants on Turbine
+
+1. The tenant currently active will be mentioned on the top right side of your screen (e.g., "Product Turbine"). 
+
+2. Hit the button, and from the dropdown menu that appears, select the tenant you wish to switch to.
