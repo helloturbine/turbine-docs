@@ -12,6 +12,8 @@ Welcome to Turbine. You can use this tutorial to walk yourself through getting s
 * Add your SKU to the Vendor
 * Cut a Purchase Order in Turbine
 
+![Order Index Page](../static/img/quickstart.png)
+
 ## Creating a new SKU in Turbine
 
 * Go to inventory and select “SKUs”.
