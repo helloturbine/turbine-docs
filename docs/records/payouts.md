@@ -11,4 +11,8 @@ A payout can have 5 potential statuses:
 **Failed**: The payout attempt was unsuccessful. This could be due to issues such as incorrect account details.
 **Canceled**: The planned payout was intentionally ended before processing.
 
+![Order Index Page](../../static/img/payouts1.png)
+
 You can also view the individual payments that make up a particular payout on the Payout Details page.
+
+![Order Index Page](../../static/img/payouts2.png)
