@@ -12,6 +12,8 @@ In the "Create Vendor" modal, add the DBA (Doing Business As) & Legal Name for t
 
 Add additional details, including contact, email addresses, and an address to the vendor. Hit "Update Vendor" save changes. 
 
+![Order Index Page](../../static/img/vendors.png)
+
 ## Add a SKU to the Vendor 
 
 Many times, your supplier uses a specific term or code to refer to an item. We call that the [Vendor SKU](https://docs.helloturbine.com/records/skus).
