@@ -12,7 +12,9 @@ After having your password reset, you will receive an email with a reset link. Y
 
 ### Utilizing in-app support
 
-We have an in-app chat that allows you to easily reach out to us for assistance, share valuable product feedback, or quickly access important links, all within the chat window. We're here to provide dedicated customer support and enhance your overall experience. 
+We have an in-app chat that allows you to easily reach out to us for assistance, share valuable product feedback, or quickly access important links, all within the chat window. We're here to provide dedicated customer support and enhance your overall experience.
+
+![Order Index Page](../../static/img/support-in-app.gif)
 
 ## Other ways to engage Support
 
