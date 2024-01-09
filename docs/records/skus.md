@@ -43,14 +43,14 @@ A remote SKU can only be edited on the SKU details page. After navigating to the
 
 ## How to archive a SKU in Turbine
 
-1. Go to the [SKUs] (https://app.helloturbine.com/app/skus) Page.
+1. Go to the [SKUs](https://app.helloturbine.com/app/skus) Page.
 2. Next, select the SKU you want to archive.
 3. Alternatively, you can bang search by typing CMD+K or CTRL+K and !s and type the SKU you want to archive.
 4. Hit the “Archive” button at the top right-hand side of your screen.
 
 ## How to add a barcode to a SKU 
 
-1. Go to the [SKUs] (https://app.helloturbine.com/app/skus) Page.
+1. Go to the [SKUs](https://app.helloturbine.com/app/skus) Page.
 2. Next, select the SKU you want to add a barcode to.
 3. Alternatively, you can bang search by typing CMD+K or CTRL+K and !s and type the SKU you're looking for.
 4. On the left-side of your screen you see Barcode with an "Edit" button. Click on the "Edit" button and type the barcode value.
