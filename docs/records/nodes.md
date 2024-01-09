@@ -30,6 +30,8 @@ You can have multiple nodes or a singular node, depending on what most accuratel
 4. If available, you can add other info such as Contact Name, Contact Phone Number, and Contact Email Address.
 5. Hit the "Create Node" button.
 
+![Order Index Page](../../static/img/nodes.png)
+
 ## How to archive a Node in Turbine
 
 1. Go to the [Nodes] (https://app.helloturbine.com/app/nodes) Page.
