@@ -22,6 +22,8 @@ BOMs can also be cloned to facilitate the creation of similar products. To clone
 
 To delete a BOM, click on it from the BOM list page, then click the "Delete BOM" button located at the top right-hand side of the screen.
 
+![Order Index Page](../../static/img/boms.png)
+
 ## Editing a BOM
 
 Go to the BOM details screen. Any changes you make will be auto-saved.
