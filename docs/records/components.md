@@ -19,6 +19,8 @@ Each of these parts is a "component" in the BOM. Some components can be straight
 
 Managing BOMs effectively is crucial for manufacturers, as it helps them keep track of the required components, their specifications, and their sources, ensuring that the final product is made consistently and to the desired quality standards.
 
+![Order Index Page](../../static/img/components.png)
+
 ## Adding a Component to Turbine
 
 From the [Components Page](https://app.helloturbine.com/app/components), in the upper right, select "New Component." 
