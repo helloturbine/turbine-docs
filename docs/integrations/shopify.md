@@ -18,6 +18,3 @@ Our Shopify integration allows you to pull in orders, products, payments, and pa
 If successful, you should be redirected to Turbine and see a message that says:
 > App installed, webhooks provisioned, and Turbine is ready to go!
 
-## Issues?
-
-If you have any issues with the install process, please ping us on Slack (@emilie or @walt) or send us an email (emilie@helloturbine.com and walt@helloturbine.com).
