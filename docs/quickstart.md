@@ -46,4 +46,13 @@ Welcome to Turbine. You can use this tutorial to walk yourself through getting s
 Once a PO is cut, you can add freight shipments to include carrier information.
 * In the relevant PO details page, click the "Add Freight Shipment" button.
 * Fill out the relevant information for carrier, cost, allocation model, and tracking number.
-* Hit the "Save" button, followed by the "Finished" button.  
+* Hit the "Save" button, followed by the "Finished" button.
+
+## Creating a receipt from a PO in Turbine 
+
+* Go to the [Purchase Orders](https://app.helloturbine.com/app/purchase-orders) Page.
+* Next, select the PO you want to receive.
+* Alternatively, you can bang search by typing CMD+K or CTRL+K and !po and type the PO number.
+* Select the "Receive Purchase Order" button on the top right-side of your screen.
+* Fill out the relevant information, including Receipt Number, Receipt Date, Lot number, and Quantity.
+* Hit the "Create Receipt" button.  
