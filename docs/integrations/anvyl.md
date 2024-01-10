@@ -1,8 +1,22 @@
 # Anvyl
+
 Our Anvyl integration allows you to continue to use Anvyl for purchase order tracking, but see the data in Turbine. 
 
-To get set up, you will need to [generate an API key](https://support.anvyl.com/hc/en-us/articles/14627347875085-Generate-an-API-key). Please share the API Key with us using a secure service like [One Time Secret](https://onetimesecret.com). 
+## Install
 
-Turbine will gather all historical information on purchase orders and vendors and capture POs going forward. Draft POs will not appear in Turbine until they are finalized. Cancelled and Rejected POs will surface an exception that can be resolved.
+### Requirements 
+
+- To get set up, you will need to [generate an API key](https://support.anvyl.com/hc/en-us/articles/14627347875085-Generate-an-API-key).
+- Please share the API Key with us using a secure service like [One Time Secret](https://onetimesecret.com). 
+
+### Steps
+
+1. In Turbine, navigate to the [Settings page](https://app.helloturbine.com/settings). Alternatively, you can bang search by typing CMD+K or CTRL+K and type "Settings".
+![Navigate to settings GIF](../../static/img/navigate_to_settings.gif)
+2. Scroll to the bottom of the page and click the "Add Anvyl API Config" button.
+![Navigate to settings GIF](../../static/img/anvyl.gif)
+4. Fill out the Team ID and API Key and hit the "Add" button
+
+Turbine will gather all historical information on purchase orders and vendors and capture POs going forward. Note that draft POs will appear in Turbine. Cancelled and Rejected POs will surface an exception that can be resolved.
 
 Purchase Orders cut in Turbine will not be synced to Anvyl.
