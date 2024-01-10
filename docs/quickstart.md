@@ -41,6 +41,12 @@ Welcome to Turbine. You can use this tutorial to walk yourself through getting s
 * Click on the mail icon and Preview/Download PDF to see the PDF and double check info. 
 * You can also edit a PO by clicking the "Edit Purchase Order" button.
 
+## Checking inventory for a SKU
+
+* Go to the [Inventory](https://app.helloturbine.com/app/inventory) Page.
+* Find the SKU you are looking for and note the Incoming Inventory quantity (first column).
+* When you cut a Purchase Order (PO), you'll see the Incoming Inventory quantity for the specific SKU in the PO increase by the entered quantity.
+
 ## Adding freight shipments to a PO in Turbine 
 
 Once a PO is cut, you can add freight shipments to include carrier information.
