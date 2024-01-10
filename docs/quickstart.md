@@ -39,4 +39,11 @@ Welcome to Turbine. You can use this tutorial to walk yourself through getting s
 * Add SKU or Component. Include Price, Quantity and Node and click “Add Item”.
 * Select “Submit PO”.
 * Click on the mail icon and Preview/Download PDF to see the PDF and double check info. 
-* You can also Edit Purchase Order and Add Freight Shipments to include carrier information.
+* You can also edit a PO by clicking the "Edit Purchase Order" button.
+
+## Adding freight shipments to a PO in Turbine 
+
+Once a PO is cut, you can add freight shipments to include carrier information.
+* In the relevant PO details page, click the "Add Freight Shipment" button.
+* Fill out the relevant information for carrier, cost, allocation model, and tracking number.
+* Hit the "Save" button, followed by the "Finished" button.  
