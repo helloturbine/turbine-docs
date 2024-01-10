@@ -13,7 +13,7 @@ To create a work order, follow these steps:
 
 Note: Work order line items must have an associated BOM before beginning this process. 
 
-![Work Orders](../../static/img/work_orders.gif)
+![Work Orders](../../static/img/work_orders2.gif)
 
 ## How to download a PDF for a Work Order
 
