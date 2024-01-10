@@ -14,3 +14,5 @@ Payment statuses include:
 ![Order Index Page](../../static/img/outbound_orders.png)
 
 Turbine integrates with several WMS systems including Veracore, Amazon FBA, Shipbob, and more. This allows you to see the fulfillment status of each order, its contents, and its payment status within the Order Details page.
+
+![Order Index Page](../../outbound_orders2.png)
