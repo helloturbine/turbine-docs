@@ -1,10 +1,18 @@
 # Inventory
 
-
 Inventory refers to the stock of goods and materials that a business holds for the purpose of production, resale, or use in its operations. It includes raw materials, work-in-progress items, and finished goods. Inventory is a crucial aspect of supply chain management, and effective inventory control is essential for businesses to meet customer demand, minimize carrying costs, and maximize operational efficiency.
 
 Turbine's inventory system extends beyond tracking, incorporating robust forecasting tools, such as demand forecasting, inventory planning, and reorder actioning, ensuring businesses can optimize their stock levels and stay agile in response to market demands.
 
+Turbine uses the below terms to track and store inventory:
+
+* **Incoming Inventory**: This includes inventory for which a Purchase Order has been cut, but the items have not yet been received.
+
+* **On Hand**: This denotes the number of units currently located at a specific location.
+
+* **Available**: The count of units that are ready for sale or use in work orders.
+
+* **Reserved**: This indicates the number of units that have been ordered but not fulfilled, consumed, or made available for sale. Additionally, reserved inventory may include items set aside for future use, such as those associated with pre-orders, even if they are not physically on hand.
 
 ![Inventory Forecasting in Turbine](../../static/img/inventory-forecasting.png)
 
