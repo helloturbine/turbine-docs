@@ -7,12 +7,22 @@ slug: /turbine-quickstart
 # Turbine Quickstart
 
 Welcome to Turbine. You can use this tutorial to walk yourself through getting started. In this process, you will:
+* Search on the docs site 
 * Create a new SKU in Turbine
 * Create a new Vendor in Turbine
 * Add your SKU to the Vendor
 * Cut a Purchase Order in Turbine
+* Check Inventory for a SKU
+* Add freight shipments to a Purchase Order in Turbine
+* Create a receipt for a Purchase Order in Turbine
 
 ![Order Index Page](../static/img/quickstart.png)
+
+## How to Search on the docs site 
+
+* Go to the [docs](https://docs.helloturbine.com/) site.
+* Hit the maginify icon on the top right-side of your screen and type what you're looking for.
+* Alternatively, you can type Ctrl+k on a mac or Cmd+ k on a PC and type what you're looking for. 
 
 ## Creating a new SKU in Turbine
 
