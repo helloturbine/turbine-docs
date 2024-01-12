@@ -16,3 +16,9 @@ Payment statuses include:
 Turbine integrates with several WMS systems including Veracore, Amazon FBA, Shipbob, and more. This allows you to see the fulfillment status of each order, its contents, and its payment status within the Order Details page.
 
 ![Order Index Page](../../static/img/outbound_orders2.png)
+
+## How to filter orders on Turbine
+
+1. Navigate to the [Outbound Orders](https://app.helloturbine.com/app/outbound-orders) page.
+
+2. On the left panel, locate the "Channel" button. Click on the button, and choose the specific channel you wish to apply as a filter.
