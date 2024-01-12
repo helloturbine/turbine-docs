@@ -14,21 +14,6 @@ Turbine SKUs are created at a variant level, meaning that each Turbine SKU is ma
 
 ![Order Index Page](../../static/img/skus1.png)
 
-## SKU Details
-
-On our SKU details screen you can see a number of key pieces of information about a SKU, including: 
-* BOM
-* Internal/Remote SKU
-* Price (What you sell it for)
-* Landed Cost (What you buy it and get it to your warehouse for)
-* Barcode, if you're tracking one
-* Channels where you're buying an item
-* Vendors where you're sourcing an item
-* Landed costs over time
-* Related POs (both opened and closed)
-
-![Order Index Page](../../static/img/skus2.png)
-
 ## Creating a SKU in Turbine
 
 1. Go to inventory and select “SKUs”.
@@ -55,3 +40,18 @@ A remote SKU can only be edited on the SKU details page. After navigating to the
 3. Alternatively, you can bang search by typing CMD+K or CTRL+K and !s and type the SKU you're looking for.
 4. On the left-side of your screen you see Barcode with an "Edit" button. Click on the "Edit" button and type the barcode value.
 5. Hit the "update" button. 
+
+## SKU Details
+
+On our SKU details screen you can see a number of key pieces of information about a SKU, including: 
+* BOM
+* Internal/Remote SKU
+* Price (What you sell it for)
+* Landed Cost (What you buy it and get it to your warehouse for)
+* Barcode, if you're tracking one
+* Channels where you're buying an item
+* Vendors where you're sourcing an item
+* Landed costs over time
+* Related POs (both opened and closed)
+
+![Order Index Page](../../static/img/skus2.png)
