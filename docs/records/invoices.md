@@ -13,7 +13,7 @@ Creating invoices in Turbine is quick and easy.
 5. To add line items to the Invoice, enter the price, quantity, Turbine SKU, and Node for each one. The SKU field is equipped with search, so you only have to remember the name of the item or your internal SKU code, and we’ll look up the Turbine SKU for you.
 6. After you have added each line item, click “Finish”.
 
-![Creating an Invoice](../../static/img/creating-an-invoice.gif)
+![Creating an Invoice](../../static/img/invoice_screen_recording.gif)
 
 ## Invoice Statuses
 In Turbine, Invoices have two types of statuses: Payment Status and Approval Status. 
