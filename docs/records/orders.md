@@ -22,3 +22,5 @@ Turbine integrates with several WMS systems including Veracore, Amazon FBA, Ship
 1. Navigate to the [Outbound Orders](https://app.helloturbine.com/app/outbound-orders) page.
 
 2. On the left panel, locate the "Channel" button. Click on the button, and choose the specific channel you wish to apply as a filter.
+
+![Order Index Page](../../static/img/filter_order.gif)
