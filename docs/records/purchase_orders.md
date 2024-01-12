@@ -16,7 +16,7 @@ Creating a purchase order in Turbine is streamlined and simple.
 5. Hit the “Submit PO” button.
 6. Once you are satisfied with your PO, in the upper right, hit the send icon to schedule your PO's send. By default, it will send in 10 minutes, though it can be scheduled up to 30 days in the future.
 
-![Creating a PO GIF](../../static/img/creating-a-po-1.gif)
+![Creating a PO GIF](../../static/img/purchase_orders.gif)
 
 
 For large Purchase Orders, line items can be submitted in bulk by using the “Bulk Mode” toggle switch at the bottom of the screen and following the listed instructions.
