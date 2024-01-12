@@ -1,5 +1,14 @@
 # Administration
 
+Welcome to Turbine! This tutorial will guide you through the initial steps to get started. 
+Throughout this process, you will:
+
+* Log in to Turbine.
+* Reset your password.
+* Make use of in-app support features.
+* Connect with support through alternative methods.
+* Learn how to switch between tenants on Turbine.
+
 ## Logging in
 
 Upon an account being created, you will receive an email with an invite link. You have 72 hours to create your account before the invite link expires. The link can only be used once and it must match the email address it was created for. 
