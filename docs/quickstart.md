@@ -22,7 +22,9 @@ Welcome to Turbine. You can use this tutorial to walk yourself through getting s
 
 * Go to the [docs](https://docs.helloturbine.com/) site.
 * Hit the maginify icon on the top right-side of your screen and type what you're looking for.
-* Alternatively, you can type Ctrl+k on a mac or Cmd+ k on a PC and type what you're looking for. 
+* Alternatively, you can type Ctrl+k on a mac or Cmd+ k on a PC and type what you're looking for.
+
+![Order Index Page](../static/img/docs_search.gif)
 
 ## Creating a new SKU in Turbine
 
