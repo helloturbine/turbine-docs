@@ -55,3 +55,18 @@ On our SKU details screen you can see a number of key pieces of information abou
 * Related POs (both opened and closed)
 
 ![Order Index Page](../../static/img/skus2.png)
+
+### Related Purchase Orders
+
+There are two types of Purchase Orders: Open Purchase Orders and Closed Purchase Orders.
+
+* Open Purchase Orders: These are purchase orders where line items have not been received.
+* Closed Purchase Orders: These are purchase orders where all line items have been received.
+
+Details for Purchase Orders include:
+
+**Transmitted At**: The timestamp or date when the purchase order was transmitted.
+**PO Number**: An identifier representing the purchase order.
+**Vendor**: The name or identification of the supplier or vendor associated with the purchase order.
+**Quantity of SKU**: The number of units or quantity of the specified SKU within the purchase order.
+
