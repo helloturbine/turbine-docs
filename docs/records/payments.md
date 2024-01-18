@@ -13,4 +13,4 @@ There are five possible statuses for an Inbound Payment:
 
 Payments are typically captured as a part of the checkout process, but may not be completed until an order has shipped. If a payment isn’t captured for some reason, such as a credit card declining, we surface that to you in Turbine as an exception.
 
-![Payments GIF](../../static/img/payments.gif)
+![Payments GIF](../../static/img/inbound_orders.gif)
