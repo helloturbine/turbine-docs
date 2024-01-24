@@ -65,8 +65,8 @@ There are two types of Purchase Orders: Open Purchase Orders and Closed Purchase
 
 Details for Purchase Orders include:
 
-**Transmitted At**: The timestamp or date when the purchase order was transmitted.
-**PO Number**: An identifier representing the purchase order.
-**Vendor**: The name or identification of the supplier or vendor associated with the purchase order.
-**Quantity of SKU**: The number of units or quantity of the specified SKU within the purchase order.
+* **Transmitted At**: The timestamp or date when the purchase order was transmitted.
+* **PO Number**: An identifier representing the purchase order.
+* **Vendor**: The name or identification of the supplier or vendor associated with the purchase order.
+* **Quantity of SKU**: The number of units or quantity of the specified SKU within the purchase order.
 
