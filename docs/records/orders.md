@@ -4,7 +4,7 @@ Outbound orders are shipments that are fulfilled by you, either to an individual
 
 On the Outbound Orders page, you can view the date and time that each order was placed, the sales channel of the order, the payment status, and the order total. You can also use the date picker on the sidebar to only display orders placed within a specific timeframe.
 
-There are five possible statuses for an Outbound Order:
+There are six possible statuses for an Outbound Order:
 
 * **Order Created**: The order has been generated and entered into the system.
 * **Payment Captured**: The payment has been successfully processed and completed.
