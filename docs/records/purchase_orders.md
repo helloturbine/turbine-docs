@@ -45,6 +45,13 @@ When editing a line item, you'll see a pop out modal where you can make any chan
 
 Changes will trigger a follow up email being added to send queue within 10 minutes.
 
+## Adding Line Items on an existung Purchase Order
+
+1. Select the "Add line item" button on the right of a PO.
+2. Enter the price, quantity, Turbine SKU or component, and Node and hit the "Add" button.
+   
+Note that once a PO has been fully received it is no longer editable, so a PO can only be edited until items have been completely received.
+
 ## Active vs Inactive Purchase Orders
 
 Purchase Orders in Turbine are classified as either “active” or “inactive”. 
