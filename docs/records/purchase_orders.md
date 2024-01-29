@@ -45,6 +45,14 @@ When editing a line item, you'll see a pop out modal where you can make any chan
 
 Changes will trigger a follow up email being added to send queue within 10 minutes.
 
+## How to download POs and PO line items from the PO index screen 
+
+1. Go to the [PO index screen](https://app.helloturbine.com/app/purchase-orders).
+
+2. Click on the download icon located at the top right corner of your screen, next to the "New PO" button.
+
+3. Specify the export start date and export end date, then click the "Request Download" button. You will receive an email containing a link to download your data within the next 24 hours.
+
 ## Active vs Inactive Purchase Orders
 
 Purchase Orders in Turbine are classified as either “active” or “inactive”. 
