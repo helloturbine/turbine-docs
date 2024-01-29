@@ -26,3 +26,11 @@ Turbine integrates with several WMS systems including Veracore, Amazon FBA, Ship
 2. On the left panel, locate the "Channel" button. Click on the button, and choose the specific channel you wish to apply as a filter.
 
 ![Order Index Page](../../static/img/filter_order.gif)
+
+## How to download Orders and Orders line items from the PO index screen 
+
+1. Go to the [Orders index screen](https://app.helloturbine.com/app/outbound-orders).
+
+2. Click on the download icon located at the top right corner of your screen.
+
+3. Specify the export start date and export end date, then click the "Request Download" button. You will receive an email containing a link to download your data within the next 24 hours.
