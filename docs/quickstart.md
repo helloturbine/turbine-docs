@@ -12,6 +12,7 @@ Welcome to Turbine. You can use this tutorial to walk yourself through getting s
 * Create a new Vendor in Turbine
 * Add your SKU to the Vendor
 * Cut a Purchase Order in Turbine
+* Add a Node in Turbine
 * Check Inventory for a SKU
 * Add freight shipments to a Purchase Order in Turbine
 * Create a receipt for a Purchase Order in Turbine
@@ -52,6 +53,13 @@ Welcome to Turbine. You can use this tutorial to walk yourself through getting s
 * Select “Submit PO”.
 * Click on the mail icon and Preview/Download PDF to see the PDF and double check info. 
 * You can also edit a PO by clicking the "Edit Purchase Order" button.
+
+## Creating a new Node in Turbine
+
+* Go to the [Nodes](https://app.helloturbine.com/app/nodes) page.
+* Click on the "New Node" button located at the top right of the screen.
+* Fill out the required information including Name, Company, Code, Type, Street Address, State/Province, City, and Postal Code.
+* Hit the "Create Node" button. 
 
 ## Checking inventory for a SKU
 
