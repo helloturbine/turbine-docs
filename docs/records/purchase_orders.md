@@ -37,13 +37,20 @@ To start, click the "Edit PO" button in the top right corner of your screen. Fro
 
 ## Editing Line Items on a Purchase Order
 
-Once a PO has been fully received it is no longer editable, so a PO can only be edited until items have been completely received.
+Once a PO has been fully or partially received it is no longer editable, so a PO can only be edited until items have been completely received.
 
 To the far right on a PO, you will see an Edit (pencil icon) or Delete (trash icon) button. 
 
 When editing a line item, you'll see a pop out modal where you can make any changes. 
 
 Changes will trigger a follow up email being added to send queue within 10 minutes.
+
+## Adding Line Items on an existung Purchase Order
+
+1. Select the "Add line item" button on the right of a PO.
+2. Enter the price, quantity, Turbine SKU or component, and Node and hit the "Add" button.
+   
+Note that once a PO has been fully or partially received it is no longer editable, so a PO can only be edited until items have been completely received.
 
 ## How to download POs and PO line items from the PO index screen 
 
