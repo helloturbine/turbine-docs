@@ -15,6 +15,12 @@ Note: Work order line items must have an associated BOM before beginning this pr
 
 ![Work Orders](../../static/img/work_orders2.gif)
 
+## How to add other charges to a work order
+
+1. Select the "Add Charge" button on the right of a work order.
+   
+2. Enter the Name, Charge, Type, and Allocation and hit the "Add" button. 
+
 ## How to download a PDF for a Work Order
 
 Once a work order has been cut, you can select “Download PDF” in the upper right.
