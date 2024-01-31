@@ -57,3 +57,11 @@ Please make a copy of the above sheet before sharing an updated inventory snapsh
 From the [Stock Page](https://app.helloturbine.com/app/inventory), companies can access a monthly inventory report that works for bookkeeping. This report includes information on the SKU, Category, Beginning of month balance, number of items received, number of items used in manufacturing, number of items sold, number of items written off, and the resulting end of month inventory.
 
 The report is produced on the first day of the calendar month for the previous month. If you need previous versions or to make changes to a previous month, please contact your account manager in Slack.
+
+## How to download inventory from the stock screen 
+
+1. Go to the [inventory](https://app.helloturbine.com/app/inventory) page.
+
+2. Click on the download icon located at the top right corner of your screen, next to the "End of Month Report" button.
+
+3. Specify the export start date and export end date, then click the "Request Download" button. You will receive an email containing a link to download your data within the next 24 hours.
