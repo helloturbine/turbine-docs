@@ -44,7 +44,7 @@ When editing a line item, you'll see a pop out modal where you can make any chan
 
 Changes will trigger a follow up email being added to send queue within 10 minutes.
 
-## Adding Line Items on an existung Purchase Order
+## Adding New Line Items on an Existing Purchase Order
 
 1. Select the "Add line item" button on the right of a PO.
 2. Enter the price, quantity, Turbine SKU or component, and Node and hit the "Add" button.
