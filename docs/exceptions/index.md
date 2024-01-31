@@ -16,3 +16,11 @@ Amazon orders are not considered for this exception.
 ## Shopify Payments without Payouts
 
 These are payments that have been collected via Shopify payments but that we can't tie to a payout. 
+
+## 1005: Anvyl Vendor created.
+## 1006: Anvyl supplier part not found.
+## 1007: Anvyl Node created.
+## 1008: Anvyl SKU added to Vendor SKU.
+## 1009: Anvyl SKU created.
+## 1010: Anvyl Purchase Order cancelled or rejected.
+## 1011: Anvyl Vendor SKU created.
