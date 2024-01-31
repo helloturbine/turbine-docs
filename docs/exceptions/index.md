@@ -16,3 +16,13 @@ Amazon orders are not considered for this exception.
 ## Shopify Payments without Payouts
 
 These are payments that have been collected via Shopify payments but that we can't tie to a payout. 
+
+
+## 1105: WMS created Vendor from Receipt.
+## 1106: SKU created from WMS.
+## 1107: Vendor SKU created from WMS Receipt.
+## 1108: Node created from WMS.
+## 1109: Purchase Order created from Receipt in WMS.
+## 1110: SKU created by WMS.
+## 1111: SKU not found in WMS.
+## 1112: New Order Channel created by WMS.
