@@ -18,7 +18,6 @@ Creating a purchase order in Turbine is streamlined and simple.
 
 ![Creating a PO GIF](../../static/img/purchase_orders.gif)
 
-
 For large Purchase Orders, line items can be submitted in bulk by using the “Bulk Mode” toggle switch at the bottom of the screen and following the listed instructions.
 
 You can also cut multiple Purchase Orders at once by using the “Submit More” toggle switch towards the top of the screen, in the Purchase Order Details section. 
@@ -51,6 +50,12 @@ Changes will trigger a follow up email being added to send queue within 10 minut
 2. Enter the price, quantity, Turbine SKU or component, and Node and hit the "Add" button.
    
 Note that once a PO has been fully or partially received it is no longer editable, so a PO can only be edited until items have been completely received.
+
+## How to add other charges to a PO 
+
+1. Scroll to the bottom of a PO and select the "Add Charge" button.
+   
+2. Enter the Name, Charge, Type, and Allocation and hit the "Add" button. 
 
 ## How to download POs and PO line items from the PO index screen 
 
