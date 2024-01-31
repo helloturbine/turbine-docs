@@ -52,9 +52,24 @@ Sheet: https://docs.google.com/spreadsheets/d/1eJc3k63gYgawoHhi6JifLMmdt_MY2MSWW
 
 Please make a copy of the above sheet before sharing an updated inventory snapshot in Slack with your account contact.
 
-## Inventory Report
+## How to download the End of Month inventory report
 
-From the [Stock Page](https://app.helloturbine.com/app/inventory), companies can access a monthly inventory report that works for bookkeeping. This report includes information on the SKU, Category, Beginning of month balance, number of items received, number of items used in manufacturing, number of items sold, number of items written off, and the resulting end of month inventory.
+1. Go to the [inventory](https://app.helloturbine.com/app/inventory) page.
+2. At the top right of the screen, select the "End of Month Report" button. 
+3. Hit the "Export" Button in the upper right. 
+
+This report includes the following information:
+* **SKU**: A unique identifier for a specific product.
+* **Product**: The name or code associated with a product.
+* **Color**: The color variant of the product.
+* **Category**: The classification or grouping of the product.
+* **Beginning of Month Balance**: The quantity of a SKU at the start of the month.
+* **Received**: The quantity of a SKU received during the month.
+* **Production Job Transferred**: The quantity of a SKU used in manufacturing or transferred to production jobs during the month.
+* **Sold**: The quantity of a SKU sold during the month.
+* **Freebies**: The quantity of a SKU given away as freebies during the month.
+* **Write Offs**: The quantity of a SKU written off or declared as losses during the month.
+* **End of Month Inventory**: The remaining quantity of a SKU at the end of the month.
 
 The report is produced on the first day of the calendar month for the previous month. If you need previous versions or to make changes to a previous month, please contact your account manager in Slack.
 
