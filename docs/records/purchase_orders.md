@@ -18,6 +18,8 @@ Creating a purchase order in Turbine is streamlined and simple.
 
 ![Creating a PO GIF](../../static/img/purchase_orders.gif)
 
+![Creating a PO GIF](../../static/img/po_pdf.png)
+
 For large Purchase Orders, line items can be submitted in bulk by using the “Bulk Mode” toggle switch at the bottom of the screen and following the listed instructions.
 
 You can also cut multiple Purchase Orders at once by using the “Submit More” toggle switch towards the top of the screen, in the Purchase Order Details section. 
