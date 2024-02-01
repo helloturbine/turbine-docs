@@ -51,17 +51,23 @@ Changes will trigger a follow up email being added to send queue within 10 minut
    
 Note that once a PO has been fully or partially received it is no longer editable, so a PO can only be edited until items have been completely received.
 
+![Creating a PO GIF](../../static/img/add_line_items.gif)
+
 ## How to add other charges to a PO 
 
 1. Scroll to the bottom of a PO and select the "Add Charge" button.
    
 2. Enter the Name, Charge, Type, and Allocation and hit the "Add" button.
 
+![Creating a PO GIF](../../static/img/po_other_charges.gif)
+
 ## How to filter Purchase Orders by vendor on Turbine
 
 1. Navigate to the [Purchase Orders](https://app.helloturbine.com/app/purchase-orders) page.
 
 2. On the left panel, locate the "Vendor" button. Click on the button, and choose the vendor you wish to apply as a filter.
+
+![Creating a PO GIF](../../static/img/filter_pos.gif)
 
 ## How to download POs and PO line items from the PO index screen 
 
