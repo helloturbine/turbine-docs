@@ -38,3 +38,11 @@ A Purchase Order in Anvyl was cancelled or rejected. It has been removed from Tu
 
 A Vendor SKU (manufacturer code) was found in Anvyl that was not found in Turbine. This Vendor SKU has been auto created. 
 
+## 1105: WMS created Vendor from Receipt.
+## 1106: SKU created from WMS.
+## 1107: Vendor SKU created from WMS Receipt.
+## 1108: Node created from WMS.
+## 1109: Purchase Order created from Receipt in WMS.
+## 1110: SKU created by WMS.
+## 1111: SKU not found in WMS.
+## 1112: New Order Channel created by WMS.
