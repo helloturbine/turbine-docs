@@ -17,6 +17,26 @@ Amazon orders are not considered for this exception.
 
 These are payments that have been collected via Shopify payments but that we can't tie to a payout. 
 
+## 1005: Anvyl Vendor created.
+
+A vendor was found in Anvyl that was not found in Turbine. This vendor has been auto created. 
+
+## 1006: Anvyl supplier part not found.
+## 1007: Anvyl Node created.
+
+A node was found in Anvyl that was not found in Turbine. This node has been auto created. 
+
+## 1008: Anvyl SKU added to Vendor SKU.
+## 1009: Anvyl SKU created.
+
+A SKU was found in Anvyl that was not found in Turbine. This SKU has been auto created. 
+
+## 1010: Anvyl Purchase Order cancelled or rejected.
+
+A Purchase Order in Anvyl was cancelled or rejected. It has been removed from Turbine.
+## 1011: Anvyl Vendor SKU created.
+
+A Vendor SKU (manufacturer code) was found in Anvyl that was not found in Turbine. This Vendor SKU has been auto created. 
 
 ## 1105: WMS created Vendor from Receipt.
 ## 1106: SKU created from WMS.
