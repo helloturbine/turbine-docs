@@ -55,9 +55,13 @@ Note that once a PO has been fully or partially received it is no longer editabl
 
 ## How to add other charges to a PO 
 
-1. Scroll to the bottom of a PO and select the "Add Charge" button.
-   
-2. Enter the Name, Charge, Type, and Allocation and hit the "Add" button.
+1. Navigate to the bottom of the Purchase Order (PO) and locate the "Add Charge" button.
+
+2. Click on the "Add Charge" button.
+
+3. Fill in the required details, including the Name, Charge, Type, and Allocation for the additional charge.
+
+4. Once all details are entered, hit the "Add" button.
 
 ![Creating a PO GIF](../../static/img/po_other_charges.gif)
 
