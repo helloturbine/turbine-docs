@@ -31,7 +31,8 @@ It has all the details of the work order, including the items that are in the wo
 ## How to send a Work Order
 
 Once a work order has been cut, select the mail icon in the top right-side of your screen. 
-Fill out the relevant information, including when you want to email the work order, at what time, and the email of the recepient (if the email is already not configured at the Vendor). Please note that you will automatically be included in the CC line. 
+Fill out the relevant information, including when you want to email the work order, at what time, and the email of the recepient (if the email is already not configured at the Vendor). Please note that you will automatically be included in the CC line.
 Hit the "Schedule Email" button. 
+Upon sending a Work Order through Turbine, the vendor will receive a follow-up email confirming the completion of the Work Order.
 
 ![Work Orders](../../static/img/work_order_screenshot.png)
