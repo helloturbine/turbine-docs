@@ -29,6 +29,10 @@ In the "Create Component" modal, add the Name, Remote SKU, Cost, and any additio
 
 Hit "Create Component" to save changes. 
 
+## How to edit the remote SKU on a Component in Turbine 
+
+The remote SKU of a component can only be edited on the component details page. After navigating to the component details page, select the "Edit" button adjacent to the remote SKU. A modal will pop up with a text box that can be edited. You change will permeate through the app upon saving.
+
 ## How to archive a Component in Turbine
 
 1. Go to the [Components](https://app.helloturbine.com/app/components) Page.
