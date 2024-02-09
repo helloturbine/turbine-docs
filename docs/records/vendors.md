@@ -6,11 +6,13 @@ To streamline inventory management and avoid discrepancies, Turbine allows you t
 
 ## Add a Vendor to Turbine
 
-From the [Vendors](https://app.helloturbine.com/app/vendors) Page in the upper right, select "New Vendor". 
+1. From the [Vendors](https://app.helloturbine.com/app/vendors) Page in the upper right, select "New Vendor". 
 
-In the "Create Vendor" modal, add the DBA (Doing Business As) & Legal Name for the vendor, as well as the default Incoterm that you use with that vendor. If you are not tracking Incoterms with the vendor, use the "NULLINCOTERM" option.
+2. In the "Create Vendor" modal, add the DBA (Doing Business As) & Legal Name for the vendor, as well as the default Incoterm that you use with that vendor. If you are not tracking Incoterms with the vendor, use the "NULLINCOTERM" option.
 
-Add additional details, including contact, email addresses, and an address to the vendor. Hit "Update Vendor" save changes. 
+3. Add additional details, including contact, email addresses, and an address to the vendor. Hit "Update Vendor" save changes. 
+
+To access all Purchase Orders associated with a specific vendor, simply scroll to the bottom of the Vendors screen.
 
 ![Order Index Page](../../static/img/vendors.png)
 
