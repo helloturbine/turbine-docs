@@ -56,7 +56,9 @@ Please make a copy of the above sheet before sharing an updated inventory snapsh
 
 1. Go to the [inventory](https://app.helloturbine.com/app/inventory) page.
 2. At the top right of the screen, select the "End of Month Report" button. 
-3. Hit the "Export" Button in the upper right. 
+3. Hit the "Export" Button in the upper right.
+
+![inventory](../../static/img/end_of_month_report.gif)
 
 This report includes the following information:
 * **SKU**: A unique identifier for a specific product.
@@ -80,3 +82,5 @@ The report is produced on the first day of the calendar month for the previous m
 2. Click on the download icon located at the top right corner of your screen, next to the "End of Month Report" button.
 
 3. Specify the export start date and export end date, then click the "Request Download" button. You will receive an email containing a link to download your data within the next 24 hours.
+
+![inventory](../../static/img/download_inventory.gif)

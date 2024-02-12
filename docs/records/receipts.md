@@ -16,7 +16,9 @@ Follow these steps to create a new receipt:
 4. To add line items to the Receipt, enter the quantity and Turbine SKU for each one. The SKU field is equipped with search, so you only have to remember the name of the item or your internal SKU code, and we’ll look up the Turbine SKU for you.
 5. Once everything is filled out, hit the “Submit Receipt” button.
 
-All receipts tied to a Purchase Order are now visible on the sidebar of a Purchase Order. 
+All receipts tied to a Purchase Order are now visible on the sidebar of a Purchase Order.
+
+![Receiving a PO](../../static/img/receipts_on_po.png)
 
 ## Generating a Receipt from a Received PO
 
