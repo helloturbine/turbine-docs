@@ -69,4 +69,4 @@ A SKU found in Turbine that was not found in WMS.
 
 ## 1112: New Order Channel created by WMS.
 
-Auto creation of a new Order Channel in Turbine by WMS.
+A New Order Channel has been auto created in Turbine by WMS.
