@@ -14,9 +14,12 @@ Creating a purchase order in Turbine is streamlined and simple.
 3. Fill out the relevant information, including the PO ID number, Vendor, any Incoterms, and the Requested Ready date. The Transmitted Date is automatically set to the day you create the Purchase Order, although this can be changed. If you do not have a piece of information on hand, you can always edit the PO later.
 4. To add line items to the Purchase Order, enter the price (you can add up to 6 decimal places), quantity, Turbine SKU, and Node for each one. The SKU field is equipped with search, so you only have to remember the name of the item or your internal SKU code, and we’ll look up the Turbine SKU for you.
 5. Hit the “Submit PO” button.
-6. Once you are satisfied with your PO, in the upper right, hit the send icon to schedule your PO's send. By default, it will send in 10 minutes, though it can be scheduled up to 30 days in the future.
 
 ![Creating a PO GIF](../../static/img/purchase_orders.gif)
+
+Once you are satisfied with your PO, in the upper right, hit the send icon to schedule your PO's send. By default, it will send in 10 minutes, though it can be scheduled up to 30 days in the future.
+
+![Creating a PO GIF](../../static/img/po_pdf.png)
 
 For large Purchase Orders, line items can be submitted in bulk by using the “Bulk Mode” toggle switch at the bottom of the screen and following the listed instructions.
 
@@ -51,17 +54,27 @@ Changes will trigger a follow up email being added to send queue within 10 minut
    
 Note that once a PO has been fully or partially received it is no longer editable, so a PO can only be edited until items have been completely received.
 
+![Creating a PO GIF](../../static/img/add_line_items.gif)
+
 ## How to add other charges to a PO 
 
-1. Scroll to the bottom of a PO and select the "Add Charge" button.
-   
-2. Enter the Name, Charge, Type, and Allocation and hit the "Add" button.
+1. Navigate to the bottom of the Purchase Order (PO) and locate the "Add Charge" button.
+
+2. Click on the "Add Charge" button.
+
+3. Fill in the required details, including the Name, Charge, Type, and Allocation for the additional charge.
+
+4. Once all details are entered, hit the "Add" button.
+
+![Creating a PO GIF](../../static/img/po_other_charges.gif)
 
 ## How to filter Purchase Orders by vendor on Turbine
 
 1. Navigate to the [Purchase Orders](https://app.helloturbine.com/app/purchase-orders) page.
 
 2. On the left panel, locate the "Vendor" button. Click on the button, and choose the vendor you wish to apply as a filter.
+
+![Creating a PO GIF](../../static/img/filter_pos.gif)
 
 ## How to download POs and PO line items from the PO index screen 
 
