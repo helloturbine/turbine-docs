@@ -9,6 +9,8 @@ Throughout this process, you will:
 * Connect with support through alternative methods.
 * Learn how to switch between tenants on Turbine.
 
+* sdjkfah;klsjdlk
+
 ## Logging in
 
 Upon an account being created, you will receive an email with an invite link. You have 72 hours to create your account before the invite link expires. The link can only be used once and it must match the email address it was created for. 
