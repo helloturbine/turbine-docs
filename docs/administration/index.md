@@ -17,17 +17,23 @@ Upon an account being created, you will receive an email with an invite link. Yo
 
 After having your password reset, you will receive an email with a reset link. You have 4 hours to reset your password befor ethe link expires. The link can only be used once and it must match the email address it was created for. 
 
-## Getting help
+## Getting Help
 
-### Utilizing in-app support
+Support is generally available from 8 AM to 8 PM ET on Mondays-Thursdays and 8 AM to 4 PM on Fridays, except on major US Holidays
+
+### In-app Support
 
 We have an in-app chat that allows you to easily reach out to us for assistance, share valuable product feedback, or quickly access important links, all within the chat window. We're here to provide dedicated customer support and enhance your overall experience. 
 
 ![Order Index Page](../../static/img/support-in-app.gif)
 
-## Other ways to engage Support
+### Email Support
 
-You can also get support via the shared slack channel that you are invited to as part of onboarding OR by emailing support@helloturbine.com.
+Please email support@helloturbine.com for support.
+
+### Slack Support
+
+You can also get support via the Shared Slack channel that you are invited to as part of onboarding. Please contact your Account Manager with questions.
 
 ## How to switch tenants on Turbine
 
