@@ -54,7 +54,7 @@ On our SKU details screen you can see a number of key pieces of information abou
 * Landed costs over time
 * Related POs (both opened and closed)
 
-![Order Index Page](../../static/img/skus2.png)
+![Order Index Page](../../static/img/sku_inventory.gif)
 
 ### Related Purchase Orders
 
