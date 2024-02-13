@@ -28,7 +28,7 @@ Alternatively, if your Purchase Orders typically arrive within one shipment, you
 2. Next, click on “Receive Purchase Order” in the top right corner.
 3. Enter the Receipt ID number, Node (if applicable), received date, and the vendor, then click “Create Receipt”.
 
-![Receiving a PO](../../static/img/receipts_2.gif)
+![Receiving a PO](../../static/img/receipts_3.gif)
 
 ## Linking Receipts to Nodes
 For companies with multiple [nodes](/records/nodes), ensuring that inventory arrival is accurately marked at the appropriate location is essential.
