@@ -6,6 +6,8 @@ To streamline inventory management and avoid discrepancies, Turbine allows you t
 
 To access all Purchase Orders associated with a specific vendor, simply scroll to the bottom of the Vendors screen. This provides a convenient flow for you to retrieve relevant information and enhances the overall usability of the Turbine platform.
 
+![Order Index Page](../../static/img/vendors.gif)
+
 ## Add a Vendor to Turbine
 
 1. From the [Vendors](https://app.helloturbine.com/app/vendors) Page in the upper right, select "New Vendor". 
