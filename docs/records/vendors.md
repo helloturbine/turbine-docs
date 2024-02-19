@@ -20,13 +20,15 @@ To access all Purchase Orders associated with a specific vendor, simply scroll t
 
 ## Add a SKU to the Vendor 
 
-Many times, your supplier uses a specific term or code to refer to an item. We call that the [Vendor SKU](https://docs.helloturbine.com/records/skus).
+Many times, your supplier uses a specific term or code to refer to an item. We call that the [Vendor SKU](https://docs.helloturbine.com/records/skus). You may have head it called a "Manufacturer Code" or similar. 
 
 To add a SKU to a Vendor, you'll need:
-* the Internal SKU
+* the Remote SKU
 * the Vendor SKU
 * the Lead Time for the SKU
 * the cost of that unit from your supplier
+
+The Lead Time should factor in travel time _and_ manufacturing time.
 
 ## Edit a Vendor
 
