@@ -8,3 +8,29 @@ Our WMS integration allows you to continue receiving daily inventory updates, st
 2. Scroll to the bottom of the page and click the "Add Trackstar Integration" button.
 ![Navigate to settings GIF](../../static/img/trackstar.gif)
 4. Hit the "Continue" button and select your WMS. 
+
+## List of WMS integrations
+
+Amazon FBA
+BlueBox (IDrive Fulfillment)
+Camelot
+DCL
+Dear Systems (Cin7 Core)
+Deposco
+Extensiv (3PL Central)
+Flexport (Deliverr)
+Infoplus
+Logiwa
+MasonHub
+Ongoing WMS
+ShipBob
+Shipfusion
+ShipHero
+ShipMonk
+ShipStream
+Shipwire
+SKUSavvy
+SkuVault
+Smart Warehousing
+Veracore
+Whiplash (Ryder)
