@@ -11,6 +11,8 @@ Our WMS integration allows you to continue receiving daily inventory updates, st
 
 ## List of WMS integrations
 
+Today, here are some of the systems that we integrate with. This list is regularly growing and changing. Please consult with your Account Manager directly with any questions. 
+
 Amazon FBA
 BlueBox (IDrive Fulfillment)
 Camelot
