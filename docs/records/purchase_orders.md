@@ -5,6 +5,16 @@ We help you cut purchase orders and link created POs to receipts, invoices, and 
 
 If a discrepancy occurs, we'll raise an [exception](/exceptions/three-way-match) so any issues can be identified and dealt with quickly.
 
+On the details page of a Purchase Order, within the left panel, you can view the requested ready date, the vendor, the total cost, and the status of the Purchase Order.
+
+There are five possible statuses for a Purchase Order:
+
+**Created**: The Purchase Order has been created.
+**Sent**: The Purchase Order has been successfully sent.
+**Acknowledged**: The Purchase Order has been acknowledged by the relevant parties.
+**Closed**: All line items associated with the Purchase Order have been fully received.
+**Cancelled**: The Purchase Order has been cancelled.
+
 ## Creating a Purchase Order
 
 Creating a purchase order in Turbine is streamlined and simple.
