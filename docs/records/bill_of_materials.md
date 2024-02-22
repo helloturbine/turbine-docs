@@ -8,7 +8,7 @@ Turbine supports versioning for BOMs, allowing you to schedule new BOMs or set e
 
 To create a BOM, follow these steps:
 
-1. Navigate to the "Inventory" tab in the navigation bar and click on "BOM."
+1. Navigate to the "Products" tab in the navigation bar and click on "BOM."
 
 2. Next, click the "New BOM" button located at the top right-hand side of your screen.
 
