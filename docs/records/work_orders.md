@@ -4,7 +4,7 @@ For brands that perform their own manufacturing or use a co-man, work orders can
 
 On the details page of a Work Order, within the left panel, you can view the requested ready date, the vendor, and the status of the Work Order.
 
-There are three possible statuses for a Work Order:
+There are six possible statuses for a Work Order:
 
 **Created**: The Work Order has been created.
 **Sent**: The Work Order has been successfully sent.
