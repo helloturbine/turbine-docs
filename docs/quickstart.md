@@ -29,7 +29,7 @@ Welcome to Turbine. You can use this tutorial to walk yourself through getting s
 
 ## Creating a new SKU in Turbine
 
-* Go to inventory and select “SKUs”.
+* Go to "Products" in the navigation bar and select “SKUs”.
 * Select New Sku.
 * Add SKU title, SKU, and final price of the SKU, and create SKU.
 * If available, you can add other info such as barcode value.
