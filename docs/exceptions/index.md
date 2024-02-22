@@ -17,11 +17,16 @@ Amazon orders are not considered for this exception.
 
 These are payments that have been collected via Shopify payments but that we can't tie to a payout. 
 
+## Purchase Orders that are unacknowledged 
+
+These are Purchase Orders for which emails have been sent, and acknowledgment has not been received within 3 days.
+
 ## 1005: Anvyl Vendor created.
 
 A vendor was found in Anvyl that was not found in Turbine. This vendor has been auto created. 
 
 ## 1006: Anvyl supplier part not found.
+
 ## 1007: Anvyl Node created.
 
 A node was found in Anvyl that was not found in Turbine. This node has been auto created. 
@@ -63,6 +68,7 @@ A node was found in WMS that was not found in Turbine. This node has been auto c
 A Purchase Order has been auto created in Turbine from a Receipt in WMS. 
 
 ## 1110: SKU created by WMS.
+
 ## 1111: SKU not found in WMS.
 
 A SKU found in Turbine that was not found in WMS. 
