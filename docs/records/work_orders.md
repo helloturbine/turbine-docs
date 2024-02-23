@@ -6,12 +6,12 @@ On the details page of a Work Order, within the left panel, you can view the req
 
 There are six possible statuses for a Work Order:
 
-**Created**: The Work Order has been created.
-**Sent**: The Work Order has been successfully sent.
-**Acknowledged**: The Work Order has been acknowledged by the relevant parties.
-**Completed**: The supplier has confirmed completion of the Work Order.
-**Closed**: All line items associated with the Work Order have been fully received.
-**Cancelled**: The Work Order has been cancelled.
+* **Created**: The Work Order has been created.
+* **Sent**: The Work Order has been successfully sent.
+* **Acknowledged**: The Work Order has been acknowledged by the relevant parties.
+* **Completed**: The supplier has confirmed completion of the Work Order.
+* **Closed**: All line items associated with the Work Order have been fully received.
+* **Cancelled**: The Work Order has been cancelled.
 
 ## Creating a Work Order
 
