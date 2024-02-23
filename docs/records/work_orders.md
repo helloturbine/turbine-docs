@@ -26,7 +26,7 @@ Note: Work order line items must have an associated BOM before beginning this pr
 
 ![Work Orders](../../static/img/work_orders2.gif)
 
-## How to add freight charges to a Work Order
+## How to add a Freight Shipment to a Work Order
 
 1. Once a Work Order has been cut, select the "Add Freight Shipment" button on the right side of your screen.
 
