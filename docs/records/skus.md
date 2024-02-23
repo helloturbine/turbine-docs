@@ -12,7 +12,7 @@ Stock keeping units, informally known as SKUs, are codes used to keep track of i
 
 Turbine SKUs are created at a variant level, meaning that each Turbine SKU is mapped to a unique product. For example, an apparel company might sell a white T-shirt in sizes XS-XL. In Turbine, each of those products would have a unique Turbine SKU.
 
-![Order Index Page](../../static/img/skus1.png)
+![Order Index Page](../../static/img/skus_updated.png)
 
 ## Creating a SKU in Turbine
 
