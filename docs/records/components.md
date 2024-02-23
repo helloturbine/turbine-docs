@@ -19,7 +19,7 @@ Each of these parts is a "component" in the BOM. Some components can be straight
 
 Managing BOMs effectively is crucial for manufacturers, as it helps them keep track of the required components, their specifications, and their sources, ensuring that the final product is made consistently and to the desired quality standards.
 
-![Order Index Page](../../static/img/components.png)
+![Order Index Page](../../static/img/components_updated.png)
 
 ## Adding a Component to Turbine
 
