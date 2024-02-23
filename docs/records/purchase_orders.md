@@ -9,11 +9,11 @@ On the details page of a Purchase Order, within the left panel, you can view the
 
 There are five possible statuses for a Purchase Order:
 
-**Created**: The Purchase Order has been created.
-**Sent**: The Purchase Order has been successfully sent.
-**Acknowledged**: The Purchase Order has been acknowledged by the relevant parties.
-**Closed**: All line items associated with the Purchase Order have been fully received.
-**Cancelled**: The Purchase Order has been cancelled.
+* **Created**: The Purchase Order has been created.
+* **Sent**: The Purchase Order has been successfully sent.
+* **Acknowledged**: The Purchase Order has been acknowledged by the relevant parties.
+* **Closed**: All line items associated with the Purchase Order have been fully received.
+* **Cancelled**: The Purchase Order has been cancelled.
 
 ## Creating a Purchase Order
 
