@@ -32,7 +32,7 @@ Note: Work order line items must have an associated BOM before beginning this pr
 
 2. Enter the Carrier, Cost, Allocation Model, and Tracking Number and hit the "Add" button.
 
-![Work Orders](../../static/img/static/img/wo_freight_shipments.png)
+![Work Orders](../../static/img/wo_freight_shipments.png)
 
 ## How to add other charges to a Work Order
 
