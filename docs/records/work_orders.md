@@ -30,7 +30,9 @@ Note: Work order line items must have an associated BOM before beginning this pr
 
 1. Once a Work Order has been cut, select the "Add Freight Shipment" button on the right side of your screen.
 
-2. Enter the Carrier, Cost, Allocation Model, and Tracking Number and hit the "Add" button. 
+2. Enter the Carrier, Cost, Allocation Model, and Tracking Number and hit the "Add" button.
+
+![Work Orders](../../static/img/wo_freight_shipments.png)
 
 ## How to add other charges to a Work Order
 
