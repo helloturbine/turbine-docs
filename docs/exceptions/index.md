@@ -70,3 +70,11 @@ A SKU found in Turbine that was not found in WMS.
 ## 1112: New Order Channel created by WMS.
 
 A New Order Channel has been auto created in Turbine by WMS.
+
+## 1113: No transferable inventory available.
+
+The SKU/line item of an inventory transfer request has no inventory available at the source location.
+
+## 1114: Insufficient transferable inventory available.
+
+The SKU/line item of an inventory transfer request has insufficient inventory at the source location and was only partially allocated. 
