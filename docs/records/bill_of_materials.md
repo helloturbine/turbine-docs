@@ -28,4 +28,4 @@ To delete a BOM, click on it from the BOM list page, then click the "Delete BOM"
 
 Go to the BOM details screen. Any changes you make will be auto-saved.
 
-![Order Index Page](../../static/img/edit_boms.gif)
+![Order  Index Page](../../static/img/edit_boms.gif)
