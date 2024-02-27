@@ -29,7 +29,7 @@ In the "Create Component" modal, add the Name, Remote SKU, Cost, and any additio
 
 Hit "Create Component" to save changes. 
 
-![Order Index Page](../../static/img/create_component.gif)
+![Order Index  Page](../../static/img/create_component.gif)
 
 ## How to edit the remote SKU on a Component in Turbine 
 
