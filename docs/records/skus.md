@@ -22,7 +22,7 @@ Turbine SKUs are created at a variant level, meaning that each Turbine SKU is ma
 4. Hit the "Create SKU" button.
 5. If available, you can add other info such as barcode value.
 
-![Order Index Page](../../static/img/create_sku.gif)
+![Order  Index Page](../../static/img/create_sku.gif)
 
 ## Editing a Remote SKU
 
