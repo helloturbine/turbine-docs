@@ -22,6 +22,8 @@ Turbine SKUs are created at a variant level, meaning that each Turbine SKU is ma
 4. Hit the "Create SKU" button.
 5. If available, you can add other info such as barcode value.
 
+![Order  Index Page](../../static/img/create_sku.gif)
+
 ## Editing a Remote SKU
 
 A remote SKU can only be edited on the SKU details page. After navigating to the SKU details page, select "Edit". A modal will pop up with a text box that can be edited. You change will permeate through the app upon saving. 
@@ -39,7 +41,9 @@ A remote SKU can only be edited on the SKU details page. After navigating to the
 2. Next, select the SKU you want to add a barcode to.
 3. Alternatively, you can bang search by typing CMD+K or CTRL+K and !s and type the SKU you're looking for.
 4. On the left-side of your screen you see Barcode with an "Edit" button. Click on the "Edit" button and type the barcode value.
-5. Hit the "update" button. 
+5. Hit the "update" button.
+
+![Order Index Page](../../static/img/add_barcode.gif)
 
 ## SKU Details
 
