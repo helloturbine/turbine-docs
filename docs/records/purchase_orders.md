@@ -94,6 +94,8 @@ Note that once a PO has been fully or partially received it is no longer editabl
 
 3. Specify the export start date and export end date, then click the "Request Download" button. You will receive an email containing a link to download your data within the next 24 hours.
 
+![Creating a PO GIF](../../static/img/download_po_lineitems.gif)
+
 ## Active vs Inactive Purchase Orders
 
 Purchase Orders in Turbine are classified as either “active” or “inactive”. 
