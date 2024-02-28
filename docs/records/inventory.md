@@ -44,7 +44,7 @@ Inventory Snapshots are the method that Turbine uses to track inventory. On a re
 
 On the Stock page, you can find the date of the most recent inventory snapshot used for the current inventory count in the “Last Reconciled At” column.
 
-![inventory](../../static/img/inventory_copy.png)
+![Inventory](../../static/img/inventory_snapshot.png)
 
 ## Inventory Snapshot Template
 

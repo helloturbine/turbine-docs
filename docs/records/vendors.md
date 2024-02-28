@@ -30,6 +30,8 @@ To add a SKU to a Vendor, you'll need:
 
 The Lead Time should factor in travel time _and_ manufacturing time.
 
+![Order Index  Page](../../static/img/vendor_sku.gif)
+
 ## Edit a Vendor
 
 To edit a vendor, go to the Vendor details screen and make any changes. Make sure to SAVE changes. 
