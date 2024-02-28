@@ -13,6 +13,8 @@ There are six possible statuses for a Work Order:
 * **Closed**: All line items associated with the Work Order have been fully received.
 * **Cancelled**: The Work Order has been cancelled.
 
+![Work Orders](../../static/img/wo_status_copy.png)
+
 ## Creating a Work Order
 
 To create a work order, follow these steps:
@@ -32,7 +34,7 @@ Note: Work order line items must have an associated BOM before beginning this pr
 
 2. Enter the Carrier, Cost, Allocation Model, and Tracking Number and hit the "Add" button.
 
-![Work Orders](../../static/img/wo_freight_shipments.png)
+![work Orders](../../static/img/wo_freight.gif)
 
 ## How to add other charges to a Work Order
 
@@ -40,7 +42,7 @@ Note: Work order line items must have an associated BOM before beginning this pr
    
 2. Enter the Name, Charge, Type, and Allocation and hit the "Add" button.
 
-![Work Orders](../../static/img/work_order_other_charges.gif)
+![Work Orders](../../static/img/wo_other_charges.gif)
 
 ## How to download a PDF for a Work Order
 
