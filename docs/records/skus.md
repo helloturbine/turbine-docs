@@ -45,19 +45,19 @@ A remote SKU can only be edited on the SKU details page. After navigating to the
 
 ![Order Index Page](../../static/img/add_barcode.gif)
 
-## How to identify the product ID and variant ID of a SKU 
+## How to find the Shopify product ID and variant ID of a SKU 
 
-There are two methods to find the product and variant IDs of a SKU
+There are two methods to find the Shopify product and variant IDs of a SKU
 
 **Method 1**: SKU Details Screen:
 * Navigate to the SKU details screen.
-* Below the Remote SKU information, you will find both the product and variant IDs.
+* Below the Remote SKU information, you will find both the Shopify product and variant IDs.
 
 **Method 2**: Channels for this SKU:
 * On the SKU details page, scroll down to "Channels for this SKU."
 * Right-click the Shopify link, copy the link.
 * Paste the link into a blank page.
-* This will enable you to identify both the product and variant IDs associated with the SKU.
+* This will enable you to identify both the Shopify product and variant IDs associated with the SKU.
 
 ## SKU Details
 
