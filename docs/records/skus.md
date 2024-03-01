@@ -45,7 +45,7 @@ A remote SKU can only be edited on the SKU details page. After navigating to the
 
 ![Order Index Page](../../static/img/add_barcode.gif)
 
-## How to find the Shopify product ID and variant ID of a SKU 
+## How to find the Shopify Product ID and Variant ID of a SKU 
 
 There are two methods to find the Shopify product and variant IDs of a SKU
 
