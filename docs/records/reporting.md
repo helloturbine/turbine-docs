@@ -99,7 +99,7 @@ This report includes of the following columns:
 * **Total Cost**: The overall cost of the entire purchase order, encompassing all items and associated costs.
 * **Quantity Recieved**: The quantity of goods or services that have been physically received or recorded as received against a specific purchase order.
 
-## Reporting FAQs 
+## Inventory Forecasting FAQs 
 
 ### Why does my SKU not have a forecast available?
 
