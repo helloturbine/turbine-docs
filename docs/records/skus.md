@@ -57,7 +57,7 @@ There are two methods to find the Shopify Product and Variant IDs of a SKU.
 * On the SKU details page, scroll down to "Channels for this SKU."
 * Right-click the Shopify link, copy the link.
 * Paste the link into a blank page.
-* This will enable you to identify both the Shopify product and variant IDs associated with the SKU.
+* This will enable you to identify both the Shopify product and variant IDs associated with the SKU from the URL.
 
 ## SKU Details
 
