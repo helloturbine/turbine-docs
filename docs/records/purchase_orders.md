@@ -1,6 +1,5 @@
 # Purchase Orders
 
-## Overview 
 
 Purchase orders (POs) are the first part of the three-way match reconciliation process.
 
