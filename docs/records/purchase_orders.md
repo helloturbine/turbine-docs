@@ -133,7 +133,7 @@ You can add individual sizes to the line items via our UI. If order many line it
 
 ### Are only the items with a green check considered received? 
 
-A green check signifies that all items in the order have been fully received. If there is a numerical value in the 'Received' column without a green check, it indicates that the Purchase Order (PO) has not been fully received. The number represents the quantity received out of the total ordered.
+A green check signifies that all items in the purchase order have been fully received. If there is a numerical value in the 'Received' column without a green check, it indicates that the Purchase Order (PO) has not been fully received or has been over-received. The number represents the quantity received out of the total ordered.
 
 ### What is the difference between the Price and Projected Landed Costs per Unit?
 
