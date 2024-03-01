@@ -22,7 +22,7 @@ On the details page of a Purchase Order, within the left panel, you can view key
 
 * Transmitted On: The date the Purchase Order was successfully created.
 * Acknowledged On: The date the recipient or supplier acknowledged the Purchase Order.
-* Requested Ready Date: Indicates the expected readiness date for ordered items.
+* Requested Ready Date: The expected readiness date for ordered items.
 
 Additionally, the left panel displays the vendor, total cost, and the Purchase Order's status, which can be one of the following:
 
