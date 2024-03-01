@@ -5,14 +5,14 @@ Explore detailed reports on prepaid purchase orders, inventory status, work orde
 
 This includes the following detailed reports:
 
-* **Reporting around Prepaid POs**: Insights into prepaid purchase orders, providing a breakdown of upfront payments made to suppliers before receiving inventory. This aids in cash flow management and budget forecasting.
+* **Prepaid POs**: Insights into prepaid purchase orders, providing a breakdown of upfront payments made to suppliers before receiving inventory. This aids in cash flow management and budget forecasting.
  * **Inventory**: A comprehensive overview of current inventory levels, encompassing raw materials, work-in-progress, and finished goods. This feature facilitates effective inventory management and optimization.
  * **Work Orders**: Details work orders for manufacturing processes, including timelines, completion status, and any deviations from planned production schedules.
  * **Orders**: Summarizes order activity, tracking both incoming and fulfilled orders. This report helps gauge sales performance, customer demand, and delivery efficiency.
  * **Purchase Orders**: Outlines the details and status of purchase orders issued to suppliers, offering insights into procurement activities, spending, and supplier performance.
  * **Dismissed/Resolved Exceptions**: Monitor exceptions within the supply chain or production process that have been dismissed or resolved in Turbine. This report provides visibility into the resolution of issues for improved operational efficiency.
 
-## Reporting around Prepaid POs
+## Prepaid POs
 
 Insights into prepaid purchase orders, providing a breakdown of upfront payments made to suppliers before receiving inventory. This aids in cash flow management and budget forecasting.
 
@@ -29,7 +29,7 @@ This report includes of the following columns:
 * **Received Quantity**: The quantity of goods or services that have been physically received or recorded as received against a specific purchase order.
 * **Ordered Quantity**: The originally requested or ordered quantity of goods or services specified in the purchase order.
 
-## Reporting around Inventory
+## Inventory
 
 A comprehensive overview of current inventory levels, encompassing raw materials, work-in-progress, and finished goods. This feature facilitates effective inventory management and optimization.
 
@@ -45,7 +45,7 @@ This report includes of the following columns:
 * **Write Offs**: The quantity of units that have been declared as losses or written off from the inventory due to damage, expiration, or other reasons.
 * **Incoming Inventory**: The quantity of units that are in the process of being received or added to the inventory.
 
-## Reporting around Work Orders
+## Work Orders
 
 Details work orders for manufacturing processes, including timelines, completion status, and any deviations from planned production schedules.
 
@@ -62,7 +62,7 @@ This report includes of the following columns:
 * **Node Name**: The name of the node associated with the work order.
 * **Quantity Ordered**: The originally requested or ordered quantity of goods or services specified in the work order.
 
-## Reporting around Orders
+## Orders
 
 Summarizes order activity, tracking both incoming and fulfilled orders. This report helps gauge sales performance, customer demand, and delivery efficiency.
 
@@ -79,7 +79,7 @@ This report includes of the following columns:
 * **Unit Price**: The cost or price assigned to a single unit of the product in the order.
 * **Quantity**: The total number of units or items ordered in the specified transaction.
   
-## Reporting around Purchase Orders
+## Purchase Orders
 
 Outlines the details and status of purchase orders issued to suppliers, offering insights into procurement activities, spending, and supplier performance.
 
