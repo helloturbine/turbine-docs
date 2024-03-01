@@ -1,13 +1,31 @@
 # Purchase Orders
-Purchase orders, also referred to as POs, are the first part of the three-way match reconciliation process.
+
+## Overview 
+
+Purchase orders (POs) are the first part of the three-way match reconciliation process.
 
 We help you cut purchase orders and link created POs to receipts, invoices, and freight shipments. We also calculate the landed COGS of each purchase order, so you don't have to rely on outdated models. 
 
 If a discrepancy occurs, we'll raise an [exception](/exceptions/three-way-match) so any issues can be identified and dealt with quickly.
 
-On the details page of a Purchase Order, within the left panel, you can view the requested ready date, the vendor, the total cost, and the status of the Purchase Order.
+## Understanding Purchase Orders and the Three Way Match
+The Purchase Order is the central document in completing a [three-way match](https://www.helloturbine.com/blog/whats-three-way-match). 
 
-There are five possible statuses for a Purchase Order:
+At Turbine, we start from the Purchase Order and tie line items together across receipts, invoices, and shipments, enabling seamless tracking from procurement to fulfillment. 
+
+This data allows you to complete three-way match at a glance. Each line item on a PO contains an indicator that shows whether a line item has been received and if it has been paid for. 
+
+![3WM](../../static/img/po-3wm.png)
+
+## Purchase Order Details 
+
+On the details page of a Purchase Order, within the left panel, you can view key information:
+
+* Transmitted On: Indicates the date the Purchase Order was successfully created.
+* Acknowledged On: Indicates the date the recipient or supplier acknowledged the Purchase Order.
+* Requested Ready Date: Indicates the expected readiness date for ordered items.
+
+Additionally, the left panel displays the vendor, total cost, and the Purchase Order's status, which can be one of the following:
 
 * **Created**: The Purchase Order has been created.
 * **Sent**: The Purchase Order has been successfully sent.
@@ -30,6 +48,8 @@ Creating a purchase order in Turbine is streamlined and simple.
 Once you are satisfied with your PO, in the upper right, hit the send icon to schedule your PO's send. By default, it will send in 10 minutes, though it can be scheduled up to 30 days in the future.
 
 ![Creating a PO GIF](../../static/img/po_pdf.png)
+
+When looking at a Purchase Order (PO), 'Quantity' typically refers to the amount that was originally ordered, while 'Received' indicates the quantity that has been actually received.
 
 For large Purchase Orders, line items can be submitted in bulk by using the “Bulk Mode” toggle switch at the bottom of the screen and following the listed instructions.
 
@@ -104,17 +124,6 @@ A PO is considered active if one or more line items have not been received. Inac
 
 Purchase orders can be filtered by date on the index page. 
 
-## Purchase Orders and the Three Way Match
-The Purchase Order is the central document in completing a [three-way match](https://www.helloturbine.com/blog/whats-three-way-match). 
-
-At Turbine, we start from the Purchase Order and tie line items together across all three documents, so you can track an item from the first step in procurement to the last step in fulfillment. 
-
-This data allows you to complete three-way match at a glance. Each line item on a PO contains an indicator that shows whether a line item has been received and if it has been paid for. 
-
-![3WM](../../static/img/po-3wm.png)
-
-Any issues are surfaced on the Exceptions page.
-
 ## Purchase Order FAQs
 
 ### How can I add size breaks in the PO?
@@ -122,4 +131,12 @@ Any issues are surfaced on the Exceptions page.
 For companies that have a parent SKU with many sizes to consider when creating purchase orders, each size must be added as an individual line item. This is important to Turbine's accurate costing analysis. 
 
 You can add individual sizes to the line items via our UI. If order many line items, we recommend leveraging our [Bulk Upload](/records/purchase_orders#creating-a-purchase-order) method for cutting a PO. 
+
+### Are only the items with a green check considered received? 
+
+A green check signifies that all items in the order have been fully received. If there is a numerical value in the 'Received' column without a green check, it indicates that the Purchase Order (PO) has not been fully received. The number represents the quantity received out of the total ordered.
+
+### What is the difference between the Price and Projected Landed Costs per Unit?
+
+The difference between Price and Projected Landed Costs per Unit encompasses Freight Shipments and Other Charges, if applicable. The Projected Landed Cost per Unit is populated solely when Freight Shipments or Other Charges are associated with a PO.
 
