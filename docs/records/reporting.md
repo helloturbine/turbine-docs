@@ -98,3 +98,16 @@ This report includes of the following columns:
 * **Landed Cost**: The cost of the product, including additional expenses like shipping.
 * **Total Cost**: The overall cost of the entire purchase order, encompassing all items and associated costs.
 * **Quantity Recieved**: The quantity of goods or services that have been physically received or recorded as received against a specific purchase order.
+
+## Reporting FAQs 
+
+### Why does my SKU not have a forecast available?
+
+1. Minimum Order Requirement:
+For a forecast to be generated, the minimum order quantity for a tenant should be greater than 10. If it is less than 10, the SKU will not be included in the forecast.
+
+2. Minimum Order in the Past 90 Days:
+A forecast is generated for a SKU if the tenant has placed at least 1 order in the past 90 days.
+
+3. Exclusion of Weeks from Model Training:
+To enhance accuracy during testing with ample data, at least 5 weeks will be excluded from the model training.
