@@ -20,7 +20,7 @@ This data allows you to complete three-way match at a glance. Each line item on 
 
 On the details page of a Purchase Order, within the left panel, you can view key information:
 
-* Transmitted On: Indicates the date the Purchase Order was successfully created.
+* Transmitted On: The date the Purchase Order was successfully created.
 * Acknowledged On: Indicates the date the recipient or supplier acknowledged the Purchase Order.
 * Requested Ready Date: Indicates the expected readiness date for ordered items.
 
