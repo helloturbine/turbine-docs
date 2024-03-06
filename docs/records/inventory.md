@@ -84,3 +84,17 @@ The report is produced on the first day of the calendar month for the previous m
 3. Specify the export start date and export end date, then click the "Request Download" button. You will receive an email containing a link to download your data within the next 24 hours.
 
 ![inventory](../../static/img/download_inventory.gif)
+
+## Inventory Forecasting FAQs 
+
+### Why does my SKU not have a forecast available?
+
+1. Minimum Order Requirement:
+For a forecast to be generated, the minimum order quantity for a tenant should be greater than 10. If it is less than 10, the SKU will not be included in the forecast.
+
+2. Minimum Order in the Past 90 Days:
+A forecast is generated for a SKU if the tenant has placed at least 1 order in the past 90 days.
+
+3. Exclusion of Weeks from Model Training:
+To enhance accuracy during testing with ample data, at least 5 weeks will be excluded from the model training.
+
