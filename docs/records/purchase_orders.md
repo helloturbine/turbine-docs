@@ -97,7 +97,7 @@ Note that once a PO has been fully or partially received it is no longer editabl
 
 ![Creating a PO GIF](../../static/img/po_other_charges.gif)
 
-## How to filter Purchase Orders by vendor,status, and location on Turbine
+## How to Filter Purchase Orders
 
 1. Navigate to the [Purchase Orders](https://app.helloturbine.com/app/purchase-orders) page.
 
