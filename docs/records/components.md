@@ -37,7 +37,7 @@ The Remote SKU of a component can only be edited on the component details page. 
 
 ![Order Index Page](../../static/img/remote_sku_component.gif)
 
-## How to edit the cost of a Component in Turbine 
+## How to Edit the Cost of a Component in Turbine 
 
 The cost of a Component can only be edited on the component details page. After navigating to the component details page, select the "Edit" button adjacent to the cost. A modal will pop up with a text box that can be edited. Your change will permeate through the app upon saving.
 
