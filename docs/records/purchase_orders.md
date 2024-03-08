@@ -97,11 +97,11 @@ Note that once a PO has been fully or partially received it is no longer editabl
 
 ![Creating a PO GIF](../../static/img/po_other_charges.gif)
 
-## How to filter Purchase Orders by vendor on Turbine
+## How to Filter Purchase Orders
 
 1. Navigate to the [Purchase Orders](https://app.helloturbine.com/app/purchase-orders) page.
 
-2. On the left panel, locate the "Vendor" button. Click on the button, and choose the vendor you wish to apply as a filter.
+2. In the left panel, find and click on the "Vendor," "Location," and "Status" buttons. Select your desired options to apply them as filters.
 
 ![Creating a PO GIF](../../static/img/filter_pos.gif)
 
