@@ -101,7 +101,7 @@ Note that once a PO has been fully or partially received it is no longer editabl
 
 1. Navigate to the [Purchase Orders](https://app.helloturbine.com/app/purchase-orders) page.
 
-2. In the left panel, find and click on the "Vendor," "Location," and "Status" buttons. Select your desired vendor, location, and status to apply them as filters.
+2. In the left panel, find and click on the "Vendor," "Location," and "Status" buttons. Select your desired options to apply them as filters.
 
 ![Creating a PO GIF](../../static/img/filter_pos.gif)
 
