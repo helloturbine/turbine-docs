@@ -11,6 +11,7 @@ This includes the following detailed reports:
  * **Orders**: Summarizes order activity, tracking both incoming and fulfilled orders. This report helps gauge sales performance, customer demand, and delivery efficiency.
  * **Purchase Orders**: Outlines the details and status of purchase orders issued to suppliers, offering insights into procurement activities, spending, and supplier performance.
  * **Dismissed/Resolved Exceptions**: Monitor exceptions within the supply chain or production process that have been dismissed or resolved in Turbine. This report provides visibility into the resolution of issues for improved operational efficiency.
+ * **Inventory Forecast**: Provides insights into future inventory needs based on historical sales data and anticipated demand trends.
 
 ## Prepaid POs
 
@@ -98,3 +99,12 @@ This report includes of the following columns:
 * **Landed Cost**: The cost of the product, including additional expenses like shipping.
 * **Total Cost**: The overall cost of the entire purchase order, encompassing all items and associated costs.
 * **Quantity Recieved**: The quantity of goods or services that have been physically received or recorded as received against a specific purchase order.
+
+## Inventory Forecast
+
+Provides insights into future inventory needs based on historical sales data and anticipated demand trends.
+
+This report includes of the following columns:
+
+* **Remote SKU**: The remote ID associated with a SKU.
+* The projected inventory for each week.
