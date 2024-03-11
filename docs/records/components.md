@@ -42,9 +42,17 @@ Remote SKUs must be unique; if you encounter an error preventing you from saving
 
 The cost of a Component can only be edited on the component details page. After navigating to the component details page, select the "Edit" button adjacent to the cost. A modal will pop up with a text box that can be edited. Your change will permeate through the app upon saving.
 
+![Order Index Page](../../static/img/component_cost.gif)
+
 ## How to archive a Component in Turbine
 
 1. Go to the [Components](https://app.helloturbine.com/app/components) Page.
 2. Next, select the Component you want to archive.
 3. Alternatively, you can [bang search](https://docs.helloturbine.com/command-palette/) by typing CMD+K or CTRL+K and !c and type the Component you want to archive.
 4. Hit the “Archive” button at the top right-hand side of your screen.
+
+## Components Template 
+
+Sheet: https://docs.google.com/spreadsheets/d/1Uqit0iC1gfSABYqllImngTxJjXubPA9KmwoI4lrvBNs/edit#gid=381549087
+
+Please make a copy of the above sheet before sharing Components in Slack with your account contact.

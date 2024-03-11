@@ -41,3 +41,9 @@ To edit a vendor, go to the Vendor details screen and make any changes. Make sur
 1. Go to the [Vendors](https://app.helloturbine.com/app/vendors) Page.
 2. Next, select the Vendor you want to archive.
 3. Hit the “Archive” button at the top right-hand side of your screen.
+
+## Vendor + Vendor SKUs Template
+
+Sheet: https://docs.google.com/spreadsheets/d/1fK0QcQGuTcsucuscgDoQWHu5bmgLUlBnBNhmOeeLZBc/edit#gid=2005307505
+
+Please make a copy of the above sheet before sharing Vendor + Vendor SKUs in Slack with your account contact.

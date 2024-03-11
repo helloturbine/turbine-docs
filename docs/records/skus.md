@@ -28,6 +28,10 @@ Turbine SKUs are created at a variant level, meaning that each Turbine SKU is ma
 
 A remote SKU can only be edited on the SKU details page. After navigating to the SKU details page, select "Edit". A modal will pop up with a text box that can be edited. You change will permeate through the app upon saving. 
 
+## Editing the cost of a SKU
+
+The cost of a SKU can only be edited on the SKU details page. After navigating to the SKU details page, select the "Edit" button adjacent to the Cost. A modal will pop up with a text box that can be edited. Your change will permeate through the app upon saving.
+
 ## How to archive a SKU in Turbine
 
 1. Go to the [SKUs](https://app.helloturbine.com/app/skus) Page.
@@ -65,7 +69,7 @@ On our SKU details screen you can see a number of key pieces of information abou
 * BOM
 * Internal/Remote SKU
 * Price (What you sell it for)
-* Landed Cost (What you buy it and get it to your warehouse for)
+* Cost (What you buy it and get it to your warehouse for)
 * Barcode, if you're tracking one
 * Channels where you're buying an item
 * Vendors where you're sourcing an item
