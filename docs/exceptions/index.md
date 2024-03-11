@@ -9,6 +9,8 @@ Exceptions are issues that Turbine thinks are worth further attention. Exception
 3. Choose "resolve" or "dismiss" from the drop-down menu.
 4. Write a note (if any) and hit the "dismiss" button.
 
+![Creating a PO GIF](../../static/img/exceptions.gif)
+
 We surface exceptions via the Exceptions page, which captures all types of exceptions in one place.
 
 ## Orders with Failed Payments
