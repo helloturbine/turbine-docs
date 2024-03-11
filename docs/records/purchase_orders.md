@@ -103,7 +103,7 @@ Note that once a PO has been fully or partially received it is no longer editabl
 
 2. In the left panel, find and click on the "Vendor," "Location," and "Status" buttons. Select your desired options to apply them as filters.
 
-![Creating a PO GIF](../../static/img/filter_pos.gif)
+![Creating a PO GIF](../../static/img/filter_po.gif)
 
 ## How to download POs and PO line items from the PO index screen 
 
