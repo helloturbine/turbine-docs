@@ -29,3 +29,9 @@ To delete a BOM, click on it from the BOM list page, then click the "Delete BOM"
 Go to the BOM details screen. Any changes you make will be auto-saved.
 
 ![Order  Index Page](../../static/img/edit_boms.gif)
+
+## BOMs Template
+
+Sheet: https://docs.google.com/spreadsheets/d/1YakZi8V3QnjccifwHPRwfqeQ_WHrW38gwwIuY8lAJ7k/edit#gid=1587728857
+
+Please make a copy of the above sheet before sharing BOMs mapping in Slack with your account contact.
