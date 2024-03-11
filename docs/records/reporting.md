@@ -107,4 +107,4 @@ Provides insights into future inventory needs based on historical sales data and
 This report includes of the following columns:
 
 * **Remote SKU**: The remote ID associated with a SKU.
-* The projected inventory for each week.
+* The projected demand for each week.
