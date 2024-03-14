@@ -6,7 +6,7 @@ slug: /
 
 # What is Turbine?
 
-Turbine is a lightweight for companies with physical inventory. 
+Turbine is a lightweight ERP for multichannel brands.
 
 We’re seeking to fundamentally change how information is shared and used across organizations. 
 
