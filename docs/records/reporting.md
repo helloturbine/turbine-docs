@@ -130,7 +130,7 @@ This report includes of the following columns:
 * **Total Units**: Total quantity of units ordered in the purchase order.
 * **Total Units Recieved**: Total quantity of units received against the purchase order.
 * **Status**: Current status of the purchase order.
-* **Source**: Source or origin of the purchase order.
+* **Source**: Source or origin of the purchase order, can be Turbine or Anvyl
 
 ## Inventory Forecast
 
