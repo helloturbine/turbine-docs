@@ -123,7 +123,7 @@ Overview of Purchase Orders at the PO Level.
 This report includes of the following columns:
 
 * **Created At**: The timestamp or date and time when a purchase order was created.
-* **PO number**: The source identifier or reference for the purchase order.
+* **PO Number**: The source identifier or reference for the purchase order.
 * **Turbine Purchase Order ID**: The unique identifier for a purchase order within Turbine.
 * **Vendor**: The name of the vendor or supplier associated with the purchase order.
 * **Total Price**: The total price of the purchase order.
