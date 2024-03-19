@@ -94,3 +94,4 @@ Details for Purchase Orders include:
 * **Vendor**: The name or identification of the supplier or vendor associated with the purchase order.
 * **Quantity of SKU**: The number of units or quantity of the specified SKU within the purchase order.
 
+![Order Index Page](../../static/img/related_pos.png)
