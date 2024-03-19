@@ -36,7 +36,7 @@ A comprehensive overview of current inventory levels, encompassing raw materials
 
 This report includes of the following columns:
 
-* **Remote SKU**: The remote ID associated with a SKU. 
+* **Remote SKU**: The remote ID or code associated with a SKU. 
 * **SKU Title**: The descriptive title or name associated with a SKU.
 * **Node Code**: The code or identifier associated with a specific node within the inventory system.
 * **Units Available**: The total quantity of a particular product or item that is currently available for sale or use.
@@ -59,7 +59,7 @@ This report includes of the following columns:
 * **Turbine Order Number**: The order number associated with a work order in Turbine.
 * **Work Order Number**: The specific identifier for a work order.
 * **Vendor**: The name of the vendor or supplier associated with the work order.
-* **Remote SKU**: The remote ID associated with a SKU. 
+* **Remote SKU**: The remote ID or code associated with a SKU. 
 * **Node Name**: The name of the node associated with the work order.
 * **Quantity Ordered**: The originally requested or ordered quantity of goods or services specified in the work order.
 
@@ -70,13 +70,13 @@ Summarizes order activity, tracking both incoming and fulfilled orders. This rep
 This report includes of the following columns:
 
 * **Created At**: The timestamp or date and time indicating when the order was created.
-* **Order ID**: A unique identifier assigned to each order for reference and tracking purposes.
-* **Order Number**: The specific number associated with a particular order for easy identification.
+* **Turbine Order ID**: A unique identifier assigned within Turbine to each order for reference and tracking purposes.
+* **Channel Order Number**: The specific number associated with a particular order for easy identification.
 * **Channel**: The channel through which the order was received.
 * **Payment Status**: Indicates the current status of payment for the order, whether it is sent, completed, or any other relevant status.
 * **Total Price**: The overall cost of the entire order.
 * **Payment Amount**: The amount paid by the customer for the order, providing insight into the financial transaction.
-* **Remote SKU**: The remote ID associated with a SKU. 
+* **Remote SKU**: The remote ID or code associated with a SKU. 
 * **Unit Price**: The cost or price assigned to a single unit of the product in the order.
 * **Quantity**: The total number of units or items ordered in the specified transaction.
 
@@ -87,12 +87,12 @@ Overview of Sales Orders at the Orders level
 This report includes of the following columns:
 
 * **Created At**: The timestamp or date and time indicating when the order was created.
-* **Order ID**: A unique identifier assigned to each order for reference and tracking purposes.
-* **Order Number**: The specific number associated with a particular order for easy identification.
+* **Turbine Order ID**: A unique identifier assigned within Turbine to each order for reference and tracking purposes.
+* **Channel Order Number**: The specific number associated with a particular order for easy identification.
 * **Channel**: The channel through which the order was received.
 * **Payment Status**: Indicates the current status of payment for the order, whether it is sent, completed, or any other relevant status.
 * **Fulfillment Status**: Indicates whether the order has been processed and fulfilled.
-* **Remote SKU**: The remote ID associated with a SKU. 
+* **Remote SKU**: The remote ID or code associated with a SKU. 
 * **Total Price**: The overall cost of the entire order.
 * **Payment Amount**: The amount paid by the customer for the order, providing insight into the financial transaction.
   
@@ -106,7 +106,7 @@ This report includes of the following columns:
 * **Tenant Name**: The name associated with a specific tenant.
 * **Created At**: The timestamp or date and time when a purchase order was created.
 * **Source ID**: The source identifier or reference for the purchase order.
-* **Purchase Order ID**: The unique identifier for a purchase order.
+* **Turbine Purchase Order ID**: The unique identifier for a purchase order within Turbine.
 * **Vendor**: The name of the vendor or supplier associated with the purchase order.
 * **Node Name**: The name of the node associated with the purchase order.
 * **Remote SKU**: The remote ID associated with a SKU.
@@ -124,7 +124,7 @@ This report includes of the following columns:
 
 * **Created At**: The timestamp or date and time when a purchase order was created.
 * **PO number**: The source identifier or reference for the purchase order.
-* **Purchase Order ID**: The unique identifier for a purchase order.
+* **Turbine Purchase Order ID**: The unique identifier for a purchase order within Turbine.
 * **Vendor**: The name of the vendor or supplier associated with the purchase order.
 * **Total Price**: The total price of the purchase order.
 * **Total Units**: Total quantity of units ordered in the purchase order.
@@ -147,13 +147,13 @@ Details the process of recognizing revenue from sales transactions, aligning wit
 
 This report includes of the following columns:
 
-* **Order Id**: Unique identifier assigned to each order within Turbine.
-* **Order number**: Sequential number assigned to orders for tracking and reference purposes.
+* **Turbine Order Id**: Unique identifier assigned to each order within Turbine.
+* **Channel Order number**: Sequential number assigned to orders for tracking and reference purposes.
 * **Order date**: The date when the order was placed by the customer.
 * **Channel**: The sales channel or platform through which the order was received.
 * **Fulfillment Status**: Indicates whether the order has been processed and fulfilled.
 * **Fulfilled date**: The date and time when the order was successfully fulfilled.
-* **Remote SKU**: The remote ID associated with a SKU.
+* **Remote SKU**: The remote ID or code associated with a SKU.
 * **COGS amount**: Cost of Goods Sold (COGS) associated with fulfilling the order, including manufacturing or procurement costs.
 * **Revenue**: Total income generated from the corresponding order.
 * **Quantity**: The number of units included in the order.
@@ -164,7 +164,7 @@ Exceptions within the supply chain or production process that have been dismisse
 
 This report includes of the following columns:
 
-* **ID**: Unique identifier assigned to each dismissed or resolved exception in Turbine's supply chain or production process.
+* **Exception ID**: Unique identifier assigned to each dismissed or resolved exception in Turbine's supply chain or production process.
 * **Name**: Title identifying the dismissed exception.
 * **Description**: Detailed explanation of the dismissed or resolved exception encountered within the supply chain or production process.
 * **Resolved**: Boolean indicating whether the exception has been resolved or not.
@@ -178,7 +178,7 @@ Overview of age of inventory, based on receiving information and current stock a
 
 This report includes of the following columns:
 
-* **Remote SKU**: The remote ID associated with a SKU.
+* **Remote SKU**: The remote ID or code associated with a SKU.
 * **Node**: Location where the inventory is stored.
 * **Node Code**: Code representing the node location.
 * **0-30**: Quantity of inventory aged between 0 to 30 days.
@@ -193,7 +193,7 @@ Overview of age of inventory, based on receiving information and current availab
 
 This report includes of the following columns:
 
-* **Remote SKU**: The remote ID associated with a SKU.
+* **Remote SKU**: The remote ID or code associated with a SKU.
 * **Node**: Location where the inventory is stored.
 * **Node Code**: Code representing the node location.
 * **Lot Code**: Identifier for the batch or lot of inventory.
