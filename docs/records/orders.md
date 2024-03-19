@@ -16,6 +16,7 @@ There are six possible statuses for an Outbound Order:
 ![Order Index Page](../../static/img/outbound_orders.png)
 
 Turbine integrates with several WMS systems including Veracore, Amazon FBA, Shipbob, and more. This allows you to see the fulfillment status of each order, its contents, and its payment status within the Order Details page.
+Wholesale orders are imported into Turbine from the system of record.
 
 ![Order Index Page](../../static/img/outbound_orders2.png)
 
