@@ -56,3 +56,10 @@ Fill out the relevant information, including when you want to email the work ord
 Hit the "Schedule Email" button. 
 
 ![Work Orders](../../static/img/work_order_screenshot.png)
+
+## How to receive a Work Order in Turbine
+
+1. Navigate to the relevant Work Order by clicking on the “Procure to Pay” tab, then click on the Work Order that you would like to create a receipt for.
+2. Next, click on the “Receive Work Order” button in the top right corner.
+3. Enter the Receipt Number, Received Date, Lot (optional), and Quantity.
+4. Hit the “Create Receipt” button.
