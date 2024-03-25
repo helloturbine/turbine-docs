@@ -71,7 +71,7 @@ This report includes the following information:
 * **Sold**: The quantity of a SKU sold during the month.
 * **Freebies**: The quantity of a SKU given away as freebies during the month.
 * **Write Offs**: The quantity of a SKU written off or declared as losses during the month.
-* **Cost of Goods Sold (COGS)**: The total cost incurred for goods sold.
+* **Cost of Goods Sold (COGS)**: The total cost incurred for goods sold based on FIFO methodology.
 * **End of Month Inventory**: The remaining quantity of a SKU at the end of the month.
 
 The report is produced on the first day of the calendar month for the previous month. If you need previous versions or to make changes to a previous month, please contact your account manager in Slack.
