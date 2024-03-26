@@ -19,7 +19,7 @@ After having your password reset, you will receive an email with a reset link. Y
 
 ## Getting Help
 
-Support is generally available from 8 AM to 8 PM ET on Mondays-Thursdays and 8 AM to 4 PM on Fridays, except on major US Holidays
+Support is generally available from 8 AM to 6 PM ET on Mondays-Thursdays and 8 AM to 4 PM on Fridays, except on major US Holidays.
 
 ### In-app Support
 
