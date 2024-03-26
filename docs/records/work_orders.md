@@ -63,3 +63,5 @@ Hit the "Schedule Email" button.
 2. Next, click on the “Receive Work Order” button in the top right corner.
 3. Enter the Receipt Number, Received Date, Lot (optional), and Quantity.
 4. Hit the “Create Receipt” button.
+
+![Work Orders](../../static/img/receive_wo.gif)
