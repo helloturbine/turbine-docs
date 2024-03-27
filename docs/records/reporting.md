@@ -204,3 +204,18 @@ This report includes of the following columns:
 * **121-150**: Quantity of inventory aged between 121 to 150 days.
 * **151-180**: Quantity of inventory aged between 151 to 180 days.
 * **Over 180 days**: Quantity of inventory aged over 180 days.
+
+## SKUs + Components 
+
+A complete list of SKUs and Components.
+
+This report includes of the following columns:
+
+* **SKU or Component ID**: Unique identifier assigned to each SKU or Component within Turbine.
+* **Remote SKU of SKU or Component**: The remote ID or code associated with a SKU or Component.
+* **Product**: The product associated with the SKU or Component.
+* **Variant**: The variant of the product. 
+* **Title**: Title of the SKU or Component.
+* **Description**: Description of the SKU or Component.
+* **Style**: Style of the SKU or Component. 
+* **Is Archived**: Boolean indicating whether the SKU or Component has been archived or not.
