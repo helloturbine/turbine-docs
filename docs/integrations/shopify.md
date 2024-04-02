@@ -9,9 +9,9 @@ Our Shopify integration allows you to pull in orders, products, payments, and pa
 - Your Shopify staff account must have ["Manage and install apps and channels" permissions](https://help.shopify.com/en/manual/your-account/staff-accounts/staff-permissions/staff-permissions-descriptions#apps-and-channels-permissions)
 
 ### Steps
-1. In Turbine, navigate to the [Settings page](https://app.helloturbine.com/settings](https://app.helloturbine.com/app/settings)
+1. In Turbine, navigate to the [Integrations page](https://app.helloturbine.com/app/integrations)
 ![Navigate to settings GIF](../../static/img/navigate-to-settings.gif)
-2. Scroll to the bottom of the page and click the "Install Turbine App" link, which will take you to Shopify
+2. Select the "Install Turbine App" link, which will take you to Shopify
 ![Scroll to install link GIF](../../static/img/scroll-to-install-link.gif)
 3. Click the green "Install app" button
 
