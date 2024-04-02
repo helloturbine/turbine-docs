@@ -211,7 +211,7 @@ A complete list of SKUs and Components.
 
 This report includes of the following columns:
 
-* **SKU or Component ID**: Unique identifier assigned to each SKU or Component within Turbine. For SKUs or Components created after 2024-02-02, this will look like `example`. 
+* **SKU or Component ID**: Unique identifier assigned to each SKU or Component within Turbine. For SKUs or Components created after 2024-02-02, this will look like `clri0ju3s02ejs60e4a7qtirz`. 
 * **Remote SKU of SKU or Component**: The remote ID or code associated with a SKU or Component.
 * **Product**: The product associated with the SKU or Component.
 * **Variant**: The variant of the product. 
