@@ -11,9 +11,9 @@ Our Anvyl integration allows you to continue to use Anvyl for purchase order tra
 
 ### Steps
 
-1. In Turbine, navigate to the [Settings page](https://app.helloturbine.com/settings). Alternatively, you can bang search by typing CMD+K or CTRL+K and type "Settings".
+1. In Turbine, navigate to the [Integrations page](https://app.helloturbine.com/integrations). Alternatively, you can bang search by typing CMD+K or CTRL+K and type "Integrations".
 ![Navigate to settings GIF](../../static/img/navigate_to_settings.gif)
-2. Scroll to the bottom of the page and click the "Add Anvyl API Config" button.
+2. Select the "Add Anvyl API Config" button.
 ![Navigate to settings GIF](../../static/img/anvyl.gif)
 4. Fill out the Team ID and API Key and hit the "Add" button
 
