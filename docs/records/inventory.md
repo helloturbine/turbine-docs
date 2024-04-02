@@ -74,7 +74,7 @@ This report includes the following information:
 * **Cost of Goods Sold (COGS)**: The total cost incurred for goods sold based on FIFO methodology.
 * **End of Month Inventory**: The remaining quantity of a SKU at the end of the month.
 
-The report is produced on the first day of the calendar month for the previous month. If you need previous versions or to make changes to a previous month, please contact your account manager in Slack.
+The report is produced on the sceond day of the calendar month for the previous month. If you need previous versions or to make changes to a previous month, please contact your account manager in Slack.
 
 ## How to download inventory from the stock screen 
 
