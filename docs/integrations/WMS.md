@@ -5,7 +5,7 @@ Our WMS integration allows you to continue receiving daily inventory updates, st
 ## Steps
 1. In Turbine, navigate to the [Integrations page](https://app.helloturbine.com/integrations). Alternatively, you can bang search by typing CMD+K or CTRL+K and type "Integrations".
 ![Navigate to settings GIF](../../static/img/navigate_to_settings.gif)
-2. Scroll to the bottom of the page and click the "Add Trackstar Integration" button.
+2. Scroll to the bottom of the page and click the "Add WMS or Amazon FBA Integration" button.
 ![Navigate to settings GIF](../../static/img/trackstar.gif)
 4. Hit the "Continue" button and select your WMS. 
 
