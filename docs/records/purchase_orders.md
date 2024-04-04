@@ -139,3 +139,8 @@ A green check signifies that all items in the purchase order have been fully rec
 
 The difference between Price and Projected Landed Costs per Unit encompasses Freight Shipments and Other Charges, if applicable. The Projected Landed Cost per Unit is populated solely when Freight Shipments or Other Charges are associated with a PO.
 
+### What is an incoterm? 
+
+An Incoterm, short for International Commercial Terms, is a set of standardized trade terms published by the International Chamber of Commerce (ICC) that are commonly used in international commercial transactions. These terms define the responsibilities, risks, and costs associated with the transportation and delivery of goods between buyers and sellers.
+
+Commonly used Incoterms encompass EXW (Ex Works), FOB (Free on Board), CIF (Cost, Insurance, and Freight), and DDP (Delivered Duty Paid).
