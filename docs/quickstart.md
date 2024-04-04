@@ -1,8 +1,11 @@
+import PartialExample from './_markdown-partial-example.mdx';
 ---
 sidebar_position: 2
 id: turbine-quickstart
 slug: /turbine-quickstart
 ---
+
+
 
 # Turbine Quickstart
 
@@ -82,3 +85,5 @@ Once a PO is cut, you can add freight shipments to include carrier information.
 * Select the "Receive Purchase Order" button on the top right-side of your screen.
 * Fill out the relevant information, including Receipt Number, Receipt Date, Lot number, and Quantity.
 * Hit the "Create Receipt" button.  
+
+<PartialExample name="Sebastien" />
