@@ -5,6 +5,7 @@ Throughout this process, you will:
 
 * Log in to Turbine.
 * Reset your password.
+* Change your password 
 * Make use of in-app support features.
 * Connect with support through alternative methods.
 * Learn how to switch between tenants on Turbine.
@@ -15,7 +16,11 @@ Upon an account being created, you will receive an email with an invite link. Yo
 
 ## Resetting your password
 
-After having your password reset, you will receive an email with a reset link. You have 4 hours to reset your password befor ethe link expires. The link can only be used once and it must match the email address it was created for. 
+After having your password reset, you will receive an email with a reset link. You have 4 hours to reset your password before the link expires. The link can only be used once and it must match the email address it was created for. 
+
+## Changing your password 
+
+You can change your password in Turbine by navigating to the [Account](https://app.helloturbine.com/app/account) page. Alternatively, you can bang search by typing CMD+K or CTRL+K and type "Account". Upon changing your password, you will receive an email notification confirming that your Turbine password has been changed. 
 
 ## Getting Help
 
