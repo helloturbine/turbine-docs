@@ -13,7 +13,7 @@ There are six possible statuses for a Work Order:
 * **Closed**: All line items associated with the Work Order have been fully received.
 * **Cancelled**: The Work Order has been cancelled.
 
-![Work Orders](../../static/img/wo_status_copy.png)
+![Work Orders](../../static/img/wo_details.png)
 
 ## Creating a Work Order
 
