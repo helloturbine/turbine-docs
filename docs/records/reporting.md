@@ -13,6 +13,8 @@ This includes the following detailed reports:
  * **Dismissed/Resolved Exceptions**: Monitor exceptions within the supply chain or production process that have been dismissed or resolved in Turbine. This report provides visibility into the resolution of issues for improved operational efficiency.
  * **Inventory Forecast**: Provides insights into future inventory needs based on historical sales data and anticipated demand trends.
 
+![Inventory Forecasting in Turbine](../../static/img/reporting.png)
+
 ## Prepaid POs
 
 Insights into prepaid purchase orders, providing a breakdown of upfront payments made to suppliers before receiving inventory. This aids in cash flow management and budget forecasting.
