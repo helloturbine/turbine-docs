@@ -7,6 +7,8 @@ Ideally, the items and quantities listed should be exactly the same as the purch
 
 In the event an error is greater than what you specify, we'll raise an [exception](/exceptions/three-way-match) so you can figure out what went wrong.
 
+![Receiving a PO](../../static/img/reciept_details.png)
+
 ## Creating a Receipt
 Follow these steps to create a new receipt:
 
