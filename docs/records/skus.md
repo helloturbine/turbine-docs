@@ -34,6 +34,10 @@ The cost of a SKU can only be edited on the SKU details page. After navigating t
 
 ![Order  Index Page](../../static/img/sku_cost.gif)
 
+## Adding the weight of a SKU
+
+The weight of a SKU can only be added on the SKU details page. After navigating to the SKU details page, select the "Edit" button adjacent to the Weight. A modal will pop up with a text box that can be edited. Your change will permeate through the app upon saving.
+
 ## How to archive a SKU in Turbine
 
 1. Go to the [SKUs](https://app.helloturbine.com/app/skus) Page.
