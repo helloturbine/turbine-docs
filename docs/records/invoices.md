@@ -28,6 +28,8 @@ Approved statuses are Approved and Pending.
 - **Approved**: The invoice has been cleared for payment.
 - **Pending**: The invoice has not been cleared for payment.
 
+![Creating an Invoice](../../static/img/invoices.png)
+
 ## Editing an Invoice
 - To start, click the Edit Invoice button on the top right hand side of the screen.
 - Once the button is clicked, pencil icons will appear on the far right-hand side of each line item. You can then edit the specific line items you would like to change.
