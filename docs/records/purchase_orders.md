@@ -97,6 +97,12 @@ Note that once a PO has been fully or partially received it is no longer editabl
 
 ![Creating a PO GIF](../../static/img/po_other_charges.gif)
 
+## How to add comments to a PO 
+
+1. Scroll to the bottom of the Purchase Order (PO) page and find the "Add Comment" button positioned on the left side of the screen.
+
+2. Enter your comment in the provided text box, then click the "Add Comment" button to save it.
+
 ## How to Filter Purchase Orders
 
 1. Navigate to the [Purchase Orders](https://app.helloturbine.com/app/purchase-orders) page.
