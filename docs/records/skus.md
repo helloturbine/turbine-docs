@@ -12,7 +12,7 @@ Stock keeping units, informally known as SKUs, are codes used to keep track of i
 
 Turbine SKUs are created at a variant level, meaning that each Turbine SKU is mapped to a unique product. For example, an apparel company might sell a white T-shirt in sizes XS-XL. In Turbine, each of those products would have a unique Turbine SKU.
 
-![Order Index Page](../../static/img/skus_updated.png)
+![Order Index Page](../../static/img/sku_details.png)
 
 ## Creating a SKU in Turbine
 
@@ -37,6 +37,8 @@ The cost of a SKU can only be edited on the SKU details page. After navigating t
 ## Adding the weight of a SKU
 
 The weight of a SKU can only be added on the SKU details page. After navigating to the SKU details page, select the "Edit" button adjacent to the Weight. A modal will pop up with a text box that can be edited. Your change will permeate through the app upon saving.
+
+![Order  Index Page](../../static/img/weight.gif)
 
 ## How to archive a SKU in Turbine
 
