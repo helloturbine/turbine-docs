@@ -11,6 +11,16 @@ An inventory transfer involves the relocation of goods from one location to anot
 
 ![Work Orders](../../static/img/inventory_transfer.gif)
 
+## Adding new line items on an existing Inventory Transfer in Turbine
+
+1. Select the "Add line item" button on the right of an Inventory Transfer.
+2. Enter the Turbine SKU or component and Quantity and hit the "Add Transfer Item" button.
+
+## Deleting line items on an existing Inventory Transfer in Turbine
+
+To delete a line item in an existing Inventory Transfer, simply click the "trash" button located on the right side of the respective line item.
+
+Please note that once an Inventory Transfer has been fully or partially received, a line item cannot be deleted. Therefore, line items can only be deleted until all items have been completely received.
 
 ## How to Receive an Inventory Transfer in Turbine
 
