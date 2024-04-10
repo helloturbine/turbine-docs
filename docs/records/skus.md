@@ -57,6 +57,14 @@ The weight of a SKU can only be added on the SKU details page. After navigating 
 
 ![Order Index Page](../../static/img/add_barcode.gif)
 
+## How to add a Vendor to a SKU on the SKU details page
+
+1. Go to the [SKUs](https://app.helloturbine.com/app/skus) Page.
+2. Next, select the SKU you want to add a Vendor to.
+3. Alternatively, you can bang search by typing CMD+K or CTRL+K and !s and type the SKU you're looking for.
+4. Scroll down the page, and on the left side of your screen, you'll find a "New Vendor" button. Click on this button to add the Vendor, Vendor SKU, Lead Time, and Unit Cost.
+5. Once you've entered the required information, hit the "Add SKU to Vendor" button.
+
 ## How to find the Shopify Product ID and Variant ID of a SKU 
 
 There are two methods to find the Shopify Product and Variant IDs of a SKU.
