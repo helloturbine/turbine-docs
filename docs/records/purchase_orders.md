@@ -103,6 +103,8 @@ Note that once a PO has been fully or partially received it is no longer editabl
 
 2. Enter your comment in the provided text box, then click the "Add Comment" button to save it.
 
+![Creating a PO GIF](../../static/img/comments.gif)
+
 ## How to Filter Purchase Orders
 
 1. Navigate to the [Purchase Orders](https://app.helloturbine.com/app/purchase-orders) page.
