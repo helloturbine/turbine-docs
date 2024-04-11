@@ -19,7 +19,7 @@ Turbine integrates with several WMS systems including Veracore, Amazon FBA, Ship
 
 Wholesale orders are imported into Turbine from the system of record.
 
-![Order Index Page](../../static/img/outbound_orders2.png)
+![Order Index Page](../../static/img/order_details_2.png)
 
 ## How to filter orders on Turbine
 
