@@ -1,0 +1,26 @@
+---
+slug: changelog-2024-04-18
+title: Changelog 2024-04-18
+authors: [emilie]
+tags: [changelog]
+---
+# 2024-04-18
+
+Important note: The Turbine team will be at a Company Offsite from Tuesday to Friday next week. **We will continued support coverage but responses may be delayed. Please bear with us!** 
+
+## Inventory 
+* We've filter out locations with 0 inventory in all categories from the location drop down to reduce clutter. 
+* Fixed a bug that meant that sometimes the "Reorder By" column was hidden.
+
+## Purchase Orders
+* Based on feedback that it was confusing to have a PO with multiple locations, we've now consolidated POs to go to only one location. 
+* If all line items on a PO/WO have a weight associated with them, you can now calculate landed costs by weight.
+
+## Exceptions
+* The Exceptions page now shows you the timestamp the exception was created for easier consumption _at a glance_.
+* Improved the language on a couple of exceptions to make it clearer what is a problem
+
+## End of Month Inventory Report
+* Fixed an edge case that meant that if the month rolled over before the new EOM report existed, you'd get an error. D'oh!
+* Improved how write offs are calculated and traceable with a new ledger type. 
+* Consolidate received inventory across multiple receipt types into one receiving column
