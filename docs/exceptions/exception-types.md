@@ -21,6 +21,8 @@ A vendor was found in Anvyl that was not found in Turbine. This vendor has been 
 
 ## 1006: Anvyl supplier part not found.
 
+The supplier part from Anvyl was not found in Turbine.
+
 ## 1007: Anvyl Node created.
 
 A node was found in Anvyl that was not found in Turbine. This node has been auto created. 
@@ -77,4 +79,25 @@ The SKU/line item of an inventory transfer request has no inventory available at
 
 ## 1114: Insufficient transferable inventory available.
 
-The SKU/line item of an inventory transfer request has insufficient inventory at the source location and was only partially allocated. 
+The SKU/line item of an inventory transfer request has insufficient inventory at the source location and was only partially allocated.
+
+## 1115: Turbine found a Receipt in WMS with no Vendor SKU.
+
+Turbine found a receipt in WMS with no vendor SKU.
+
+## 1205: Invoice Item without matching Vendor SKU.
+
+An invoice item was created for a purchase order without a matching vendor SKU.
+
+## 1206: Outbound order has failed payments.
+
+An outbound order was successfully placed, but the payment has failed.
+
+## 1207: A fully received PO has a line item with no landed costs.
+
+A fully received purchase order has a line item with no landed costs.
+
+## 1208: Line item cost on PO does not match cost on Object.
+
+In a purchase order, the line item cost does not match the component cost. 
+
