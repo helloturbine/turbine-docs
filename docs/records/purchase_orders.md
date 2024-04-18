@@ -145,7 +145,7 @@ A green check signifies that all items in the purchase order have been fully rec
 
 ### What is the difference between the Price and Projected Landed Costs per Unit?
 
-The difference between Price and Projected Landed Costs per Unit encompasses Freight Shipments and Other Charges, if applicable. The Projected Landed Cost per Unit is populated solely when Freight Shipments or Other Charges are associated with a PO.
+The difference between Price and Projected Landed Costs per Unit encompasses Freight Shipments and Other Charges, if applicable. The Projected Landed Cost per Unit is populated solely when Freight Shipments or Other Charges are associated with a PO. Additionally, Projected Landed Costs are also calculated by weight when all line items on a PO have associated weights.
 
 ### What is an incoterm? 
 
