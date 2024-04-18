@@ -1,4 +1,6 @@
 # Website
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhelloturbine%2Fturbine-docs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhelloturbine%2Fturbine-docs?ref=badge_shield)
+
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
@@ -39,3 +41,7 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhelloturbine%2Fturbine-docs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhelloturbine%2Fturbine-docs?ref=badge_large)
