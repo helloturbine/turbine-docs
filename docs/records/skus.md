@@ -65,6 +65,8 @@ The weight of a SKU can only be added on the SKU details page. After navigating 
 4. Scroll down the page, and on the left side of your screen, you'll find a "New Vendor" button. Click on this button to add the Vendor, Vendor SKU, Lead Time, and Unit Cost.
 5. Once you've entered the required information, hit the "Add SKU to Vendor" button.
 
+![Order Index Page](../../static/img/vendor_sku2.gif)
+
 ## How to find the Shopify Product ID and Variant ID of a SKU 
 
 There are two methods to find the Shopify Product and Variant IDs of a SKU.
