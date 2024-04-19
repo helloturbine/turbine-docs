@@ -14,6 +14,8 @@ Turbine uses the below terms to track and store inventory:
 
 * **Reserved**: This indicates the number of units that have been ordered but not fulfilled, consumed, or made available for sale. Additionally, reserved inventory may include items set aside for future use, such as those associated with pre-orders, even if they are not physically on hand.
 
+*Note that we've decluttered the location dropdown on the inventory page by removing those with zero inventory across all categories*
+
 ![Inventory Forecasting in Turbine](../../static/img/updated_inventory.png)
 
 ## Inventory Forecasting
