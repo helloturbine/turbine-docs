@@ -85,6 +85,12 @@ Note that once a PO has been fully or partially received it is no longer editabl
 
 ![Creating a PO GIF](../../static/img/add_line_items.gif)
 
+## How to add a Freight Shipment to a PO 
+
+Once a PO has been cut, select the "Add Freight Shipment" button on the right side of your screen.
+
+Enter the Carrier, Cost, Allocation Model, and Tracking Number and hit the "Add" button.
+
 ## How to add other charges to a PO 
 
 1. Navigate to the bottom of the Purchase Order (PO) and locate the "Add Charge" button.
