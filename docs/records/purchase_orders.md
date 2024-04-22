@@ -91,6 +91,8 @@ Once a PO has been cut, select the "Add Freight Shipment" button on the right si
 
 Enter the Carrier, Cost, Allocation Model, and Tracking Number and hit the "Add" button.
 
+![Creating a PO GIF](../../static/img/po_freight_costs.gif)
+
 ## How to add other charges to a PO 
 
 1. Navigate to the bottom of the Purchase Order (PO) and locate the "Add Charge" button.
