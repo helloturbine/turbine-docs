@@ -42,7 +42,7 @@ Creating a purchase order in Turbine is streamlined and simple.
 4. To add line items to the Purchase Order, enter the price (you can add up to 6 decimal places), quantity, and Turbine SKU for each one. The SKU field is equipped with search, so you only have to remember the name of the item or your internal SKU code, and we’ll look up the Turbine SKU for you.
 5. Hit the “Submit PO” button.
 
-![Creating a PO GIF](../../static/img/purchase_orders.gif)
+![Creating a PO GIF](../../static/img/create_po2.gif)
 
 Once you are satisfied with your PO, in the upper right, hit the send icon to schedule your PO's send. By default, it will send in 10 minutes, though it can be scheduled up to 30 days in the future.
 
@@ -83,7 +83,7 @@ Changes will trigger a follow up email being added to send queue within 10 minut
    
 Note that once a PO has been fully or partially received it is no longer editable, so a PO can only be edited until items have been completely received.
 
-![Creating a PO GIF](../../static/img/add_line_items.gif)
+![Creating a PO GIF](../../static/img/add_line_item2.gif)
 
 ## How to add a Freight Shipment to a PO 
 
