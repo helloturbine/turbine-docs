@@ -9,4 +9,4 @@ Exceptions are issues that Turbine thinks are worth further attention. Exception
 3. Choose "resolve" or "dismiss" from the drop-down menu.
 4. Write a note (if any) and hit the "dismiss" button.
 
-![Creating a PO GIF](../../static/img/exceptions.gif)
+![Creating a PO GIF](../../static/img/exceptions2.gif)
