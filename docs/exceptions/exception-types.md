@@ -2,19 +2,6 @@
 
 We surface exceptions via the Exceptions page, which captures all types of exceptions in one place.
 
-## Orders with Failed Payments
-
-These are orders that were succesfully placed where the payment failed. You may want to flag these as not being eligible for fulfillment. Turbine will not.
-
-## Orders without Payments
-
-Orders placed that have no payment information tied to them. 
-Amazon orders are not considered for this exception.
-
-## Shopify Payments without Payouts
-
-These are payments that have been collected via Shopify payments but that we can't tie to a payout. 
-
 ## 1005: Anvyl Vendor created.
 
 A vendor was found in Anvyl that was not found in Turbine. This vendor has been auto created. 
@@ -85,6 +72,22 @@ The SKU/line item of an inventory transfer request has insufficient inventory at
 
 Turbine found a receipt in WMS with no vendor SKU.
 
+## 1116: Found a receipt in WMS but missing Purchase Order in Turbine.
+
+A receipt was found in WMS without an associated Purchase Order in Turbine. A Purchase Order was automatically generated to rectify this.
+
+## 1117: Node in WMS not found in Turbine.
+
+A Node in WMS was not found in Turbine.
+
+## 1118: Found a receipt in Trackstar with no vendor.
+
+A receipt for a purchase order was found in WMS but no vendor was associated with it. A vendor was automatically generated to rectify this
+
+## 1202: Sku in WMS not found in Turbine.
+
+A SKU that was in WMS was not found in Turbine.
+
 ## 1205: Invoice Item without matching Vendor SKU.
 
 An invoice item was created for a purchase order without a matching vendor SKU.
@@ -101,3 +104,18 @@ A fully received purchase order has a line item with no landed costs.
 
 In a purchase order, the line item cost does not match the component cost. 
 
+## 1209: Orders without Payments.
+
+Orders placed that have no payment information tied to them. Amazon orders are not considered for this exception.
+
+## 1210: Order Payments without Payouts.
+
+These are payments that have been collected via Shopify payments but that we can't tie to a payout. 
+
+## 1211: Line item price does not match SKU cost.
+
+In a Purchase Order, the line item Price does not match the SKU cost.
+
+## 1212: Node Merge.
+
+A Super user has merged nodes. 
