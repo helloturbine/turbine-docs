@@ -32,6 +32,8 @@ Additionally, the left panel displays the vendor, total cost, and the Purchase O
 * **Closed**: All line items associated with the Purchase Order have been fully received.
 * **Cancelled**: The Purchase Order has been cancelled.
 
+![Creating a PO GIF](../../static/img/po_details.png)
+
 ## Creating a Purchase Order
 
 Creating a purchase order in Turbine is streamlined and simple.
@@ -64,7 +66,7 @@ Important information such as the acknowledgment date and payment terms may not 
 
 To start, click the "Edit PO" button in the top right corner of your screen. From there, you can add or modify important dates, Incoterms, and payment terms. Once you have made the necessary changes, remember to click "Save" below the Payment Terms field.
 
-![Editing a PO GIF](../../static/img/editing-a-po-final.gif)
+![Editing a PO GIF](../../static/img/edit_po.gif)
 
 ## Editing Line Items on a Purchase Order
 
