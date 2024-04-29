@@ -76,6 +76,8 @@ When editing a line item, you'll see a pop out modal where you can make any chan
 
 Changes will trigger a follow up email being added to send queue within 10 minutes.
 
+![Editing a PO GIF](../../static/img/edit_line_item.gif)
+
 ## Adding New Line Items on an Existing Purchase Order
 
 1. Select the "Add line item" button on the right of a PO.
