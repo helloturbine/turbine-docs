@@ -28,6 +28,8 @@ Turbine SKUs are created at a variant level, meaning that each Turbine SKU is ma
 
 A remote SKU can only be edited on the SKU details page. After navigating to the SKU details page, select "Edit". A modal will pop up with a text box that can be edited. You change will permeate through the app upon saving. 
 
+![Order  Index Page](../../static/img/edit_remote_sku.gif)
+
 ## Editing the cost of a SKU
 
 The cost of a SKU can only be edited on the SKU details page. After navigating to the SKU details page, select the "Edit" button adjacent to the Cost. A modal will pop up with a text box that can be edited. Your change will permeate through the app upon saving.
@@ -46,6 +48,8 @@ The weight of a SKU can only be added on the SKU details page. After navigating 
 2. Next, select the SKU you want to archive.
 3. Alternatively, you can bang search by typing CMD+K or CTRL+K and !s and type the SKU you want to archive.
 4. Hit the “Archive” button at the top right-hand side of your screen.
+
+![Order  Index Page](../../static/img/archive_sku.gif)
 
 ## How to add a barcode to a SKU 
 
