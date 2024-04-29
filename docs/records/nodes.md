@@ -37,3 +37,5 @@ You can have multiple nodes or a singular node, depending on what most accuratel
 1. Go to the [Nodes](https://app.helloturbine.com/app/nodes) Page.
 2. Next, select the Node you want to archive.
 3. Hit the “Archive” button at the top right-hand side of your screen.
+
+![Node Index Page](../../static/img/archive_node.gif)
