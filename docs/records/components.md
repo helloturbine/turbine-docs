@@ -44,6 +44,12 @@ The cost of a Component can only be edited on the component details page. After 
 
 ![Order Index Page](../../static/img/component_cost.gif)
 
+## How to Edit the Weight of a Component in Turbine 
+
+The weight of a Component can only be edited on the component details page. After navigating to the component details page, select the "Edit" button adjacent to the weight. A modal will pop up with a text box that can be edited. Your change will permeate through the app upon saving.
+
+![Order Index Page](../../static/img/edit_weight_component.gif)
+
 ## How to archive a Component in Turbine
 
 1. Go to the [Components](https://app.helloturbine.com/app/components) Page.
