@@ -37,3 +37,5 @@ Approved statuses are Approved and Pending.
 - **Important: Invoices are only editable for 48 hours after the initial creation time/date.**
 
 If you need further assistance, please reach out to your account manager.
+
+![Creating an Invoice](../../static/img/edit_invoice.gif)
