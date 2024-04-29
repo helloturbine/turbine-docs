@@ -13,7 +13,7 @@ Once tracking information is received from a carrier, you can link the shipment 
 
 3. Enter the details of the shipment, including the carrier, tracking number, allocation method, and cost. Then, click "Save." The landed cost of each item will automatically populate. Landed costs can be calculated in three ways -- by value, by number of items, or by weight.
 
-![Adding a freight shipment](../../static/img/adding-a-freight-shipment.gif)
+![Adding a freight shipment](../../static/img/po_freight_costs.gif)
 
 Saved shipments will also appear on the Freight Shipments page. If it is a supported carrier, we will verify the entered information with the carrier's systems to ensure the price and tracking information is accurate. If so, information such as the shipped date and expected delivery date will be populated on the Freight Shipments page.
 
