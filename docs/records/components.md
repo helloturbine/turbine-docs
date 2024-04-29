@@ -36,7 +36,7 @@ Hit "Create Component" to save changes.
 The Remote SKU of a component can only be edited on the component details page. After navigating to the component details page, select the "Edit" button adjacent to the Remote SKU. A modal will pop up with a text box that can be edited. Your change will permeate through the app upon saving. 
 Remote SKUs must be unique; if you encounter an error preventing you from saving, this means that there is another component with an identical RemoteSKU. 
 
-![Order Index Page](../../static/img/remote_sku_component.gif)
+![Order Index Page](../../static/img/edit_remotesku_component.gif)
 
 ## How to Edit the Cost of a Component in Turbine 
 
