@@ -51,6 +51,8 @@ The cost of a Component can only be edited on the component details page. After 
 3. Alternatively, you can [bang search](https://docs.helloturbine.com/command-palette/) by typing CMD+K or CTRL+K and !c and type the Component you want to archive.
 4. Hit the “Archive” button at the top right-hand side of your screen.
 
+![Order Index Page](../../static/img/archive_component.gif)
+
 ## Components Template 
 
 Sheet: https://docs.google.com/spreadsheets/d/1Uqit0iC1gfSABYqllImngTxJjXubPA9KmwoI4lrvBNs/edit#gid=381549087
