@@ -42,6 +42,8 @@ To edit a vendor, go to the Vendor details screen and make any changes. Make sur
 2. Next, select the Vendor you want to archive.
 3. Hit the “Archive” button at the top right-hand side of your screen.
 
+![Order Index  Page](../../static/img/archive_vendor.gif)
+
 ## Vendor + Vendor SKUs Template
 
 Sheet: https://docs.google.com/spreadsheets/d/1fK0QcQGuTcsucuscgDoQWHu5bmgLUlBnBNhmOeeLZBc/edit#gid=2005307505
