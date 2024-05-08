@@ -14,21 +14,28 @@ Our WMS integration allows you to continue receiving daily inventory updates, st
 Today, here are some of the systems that we integrate with. This list is regularly growing and changing. Please consult with your Account Manager directly with any questions. 
 
 * Amazon FBA
+* AMS
+* Amware
 * BlueBox (IDrive Fulfillment)
 * Camelot
 * DCL
 * Dear Systems (Cin7 Core)
 * Deposco
+* Elite Ops
 * Extensiv (3PL Central)
 * Flexport (Deliverr)
 * Infoplus
+* Jazz Central
 * Logiwa
 * MasonHub
+* NLRP
 * Ongoing WMS
 * ShipBob
 * Shipfusion
 * ShipHero
 * ShipMonk
+* ShippingTree
+* ShipStation
 * ShipStream
 * Shipwire
 * SKUSavvy
