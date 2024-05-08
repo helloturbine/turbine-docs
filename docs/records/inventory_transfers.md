@@ -9,6 +9,8 @@ An inventory transfer involves the relocation of goods from one location to anot
 3. Specify the SKUs or components, input the Quantity, and click "Add Item."
 4. Review the information for accuracy and finalize the process by clicking "Create Transfer."
 
+Please note that for a transfer to be successfully completed, it MUST be received. Refer to the [How to Receieve an Inventory Transfer in Turbine](https://docs.helloturbine.com/records/inventory_transfers#how-to-receive-an-inventory-transfer-in-turbine) section for more info.  
+
 ![Work Orders](../../static/img/inventory_transfer.gif)
 
 ## Adding new line items on an existing Inventory Transfer in Turbine
