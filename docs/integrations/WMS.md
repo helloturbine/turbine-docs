@@ -34,5 +34,6 @@ Today, here are some of the systems that we integrate with. This list is regular
 * SKUSavvy
 * SkuVault
 * Smart Warehousing
+* Stord
 * Veracore
 * Whiplash (Ryder)
