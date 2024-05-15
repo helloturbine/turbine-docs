@@ -22,6 +22,8 @@ Turbine uses the below terms to track and store inventory:
 
 Turbine's inventory forecasting is split into multiple parts: demand forecasting, inventory planning, and reorder actioning.
 
+![Inventory Forecasting in Turbine](../../static/img/inv_forecast.png)
+
 ### Demand Forecasting
 
 Our demand forecasting uses your historical sales data and advanced statistical modeling to predict the number of items to be sold per week for the next 6-12 months. The forecast is created at the per-SKU-per-channel level for each week.
