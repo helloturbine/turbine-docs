@@ -36,3 +36,5 @@ Please note that once an Inventory Transfer has been fully or partially received
 4. Hit the “Create Receipt” button.
 
 ![Work Orders](../../static/img/transfer_receipt.gif)
+
+![Work Orders](../../static/img/new_inventory_transfer.png)
