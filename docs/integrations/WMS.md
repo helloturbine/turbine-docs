@@ -30,10 +30,12 @@ Today, here are some of the systems that we integrate with. This list is regular
 * MasonHub
 * NLRP
 * Ongoing WMS
+* Packiyo
 * ShipBob
 * Shipfusion
 * ShipHero
 * ShipMonk
+* ShipOffers
 * ShippingTree
 * ShipStation
 * ShipStream
