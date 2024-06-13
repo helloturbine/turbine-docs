@@ -164,3 +164,7 @@ The difference between Price and Projected Landed Costs per Unit encompasses Fre
 An Incoterm, short for International Commercial Terms, is a set of standardized trade terms published by the International Chamber of Commerce (ICC) that are commonly used in international commercial transactions. These terms define the responsibilities, risks, and costs associated with the transportation and delivery of goods between buyers and sellers.
 
 Commonly used Incoterms encompass EXW (Ex Works), FOB (Free on Board), CIF (Cost, Insurance, and Freight), and DDP (Delivered Duty Paid).
+
+### What if I don't want to send a PO directly to the supplier?
+
+If you prefer not to send a PO directly to the supplier, you can add the vendor's contact information and simply avoid clicking the send button. It's as easy as that!
