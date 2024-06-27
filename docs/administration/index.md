@@ -5,7 +5,7 @@ Throughout this process, you will:
 
 * Log in to Turbine.
 * Reset your password.
-* Change your password 
+* Change your password. 
 * Make use of in-app support features.
 * Connect with support through alternative methods.
 * Learn how to switch between tenants on Turbine.
@@ -20,7 +20,11 @@ After having your password reset, you will receive an email with a reset link. Y
 
 ## Changing your password 
 
-You can change your password in Turbine by navigating to the [Account](https://app.helloturbine.com/app/account) page. Alternatively, you can bang search by typing CMD+K or CTRL+K and type "Account". Upon changing your password, you will receive an email notification confirming that your Turbine password has been changed. 
+You can change your password in Turbine by navigating to the [Account](https://app.helloturbine.com/app/account) page. Alternatively, you can bang search by typing CMD+K or CTRL+K and type "Account". Upon changing your password, you will receive an email notification confirming that your Turbine password has been changed.
+
+## User Management
+
+Currently, Turbine supports only one user role and does not have differentiated permission levels. If you need to add or remove any users, please reach out to our support team via Slack or by submitting a ticket.
 
 ## Getting Help
 
