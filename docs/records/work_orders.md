@@ -24,7 +24,9 @@ To create a work order, follow these steps:
 4. To add line items to the Work Order, enter the quantity and Turbine SKU for each one. Please note that SKUs need to be assigned to the Vendor as a Vendor SKU to facilitate the Work Order creation. The SKU field is equipped with search, so you only have to remember the name of the item or your internal SKU code, and we’ll look up the Turbine SKU for you.
 5. Once everything is filled out, hit the “Run Work Order” button. The proposed changes to inventory are **permanent**, so ensure that all details are correct before confirming.
 
-Note: Work order line items must have an associated BOM before beginning this process. 
+**Important Notes**: 
+* Work order line items must have an associated BOM (Bill of Materials) before starting this process.
+* The selected vendor must be classified as a manufacturer to be available when creating a work order.
 
 ![Work Orders](../../static/img/work_orders2.gif)
 
